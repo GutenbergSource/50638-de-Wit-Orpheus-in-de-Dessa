@@ -1,0 +1,1100 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2 lang=nl-1900>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Orpheus in de Dessa</title>
+<author key="Wit, Augusta de" ref="https://viaf.org/viaf/265737666/">Augusta de Wit (1864&ndash;1939)</author>
+<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20150816033552dewit</idno>
+<idno type=PGDPProjectId>projectID55d0e4a9a0824</idno>
+<idno type=PGSrc>50638-de-Wit-Orpheus-in-de-Dessa</idno>
+<idno type=epub-id>urn:uuid:aa1ca3b3-0dbf-429a-9d9f-f0f4e0ca506e</idno>
+<idno type=PGnum>50638</idno>
+<date>2015-12-07</date>
+<availability lang=nl>
+<p>&availability.nl;
+
+<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p>Scans van dit book zijn beschikbaar via het Internet Archive (copy <xref url="https://archive.org/details/orpheusindedessa00wita">1</xref>).
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">#####<!--Een korte beschrijving van dit document.--></note>
+    <note type="Blurb">#####<!--Kort stukje promotionele tekst voor op de achterflap.--></note>
+    <note type="Extract">#####<!--Kort extract uit de tekst.--></note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Augusta de Wit</author>
+<title>Orpheus in de Dessa</title>
+<date>[1919]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc lang=nl>
+<p>Dit boek is weergegeven in oorspronkelijke schrijfwijze. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld. Kennelijke zetfouten in het origineel zijn verbeterd. Deze verbeteringen zijn aangegeven in de colofon aan het einde van dit boek.
+
+</encodingDesc>
+<profileDesc>
+    <langUsage lang=nl>
+        <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
+        <language id=nl>Nederlands</language>
+        <language id=en>Engels</language>
+        <language id=de>Duits</language>
+        <language id=fr>Frans</language>
+        <language id=la>Latijn</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>#####</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2015-12-06 Begonnen.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)"> 
+<figDesc>Nieuw ontworpen voorkant.</figDesc> 
+</figure>
+
+
+
+<pb n=1>
+<div1 id=french type=FrenchTitle>
+
+
+<p rend="align(center)">ORPHEUS IN DE DESSA
+
+
+
+
+<pb n=2>
+<div1 id=ads type=Ads>
+
+
+<p>Van AUGUSTA DE WIT verschenen bij dezelfde uitgevers:
+
+
+<p><table>
+<row><cell cols=4>HET DURE MOEDERSCHAP,
+<row><cell>2e druk      <cell>f 1.75. <cell>Geb. <cell>f 2.25
+
+<row><cell cols=4>VERBORGEN BRONNEN,
+<row><cell>3e druk      <cell>f 1.50  <cell><ditto>Geb.</ditto> <cell><ditto>f</ditto> 1.90
+
+<row><cell cols=4>DE GODIN DIE WACHT,
+<row><cell>2e druk      <cell>f 1.50  <cell><ditto>Geb.</ditto> <cell><ditto>f</ditto> 1.90
+</table>
+
+
+<p>In samenwerking met ELSE OTTEN:
+
+<p>LABOREMUS, Drama van Björnstjerne Björnson. Vertaald uit het Noorsch f&nbsp;1.&mdash;
+
+
+
+<pb n=3>
+<div1 id=titlePage type=Titlepage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)"> 
+<figDesc>Oorspronkelijke titelpagina.</figDesc> 
+</figure>
+
+
+
+
+
+<titlePage>
+<byline>
+<docAuthor>AUGUSTA DE WIT</docAuthor>
+</byline>
+
+
+<docTitle><titlePart>ORPHEUS IN DE DESSA</titlePart></docTitle>
+
+
+<docImprint>VIERDE DRUK
+
+<!-- [Illustration] -->
+
+<lb>AMSTERDAM
+<lb>P. N. VAN KAMPEN &amp; ZOON
+</docImprint>
+</titlePage>
+
+
+
+
+<pb n=5>
+</front>
+<body>
+<div1 id=ch1 type=Chapter rend="toc-head(1)">
+
+
+<p rend="class(dropcap)">In de stilte en de eenzaamheid van den nacht was het een enkele toon geweest&mdash;een klare helder-hooge toon, die aangestreken kwam op de lamplichte galerij en trilde, en al weder voorbij was, weg over de rivier en de blank-beglinsterde suikerrietvelden, de verte in.
+
+<p>Nu was het weer stil.
+
+<p>De jonge man zag op van zijn boek.
+
+<p>Wat was dat geweest? Een vogel? <pb n=6>Het klonk bijna als wielewaalgeroep.
+
+<p>Een wielewaal in den middernacht! Waarom niet, hier in Indië, waar alles zoo vreemd was en verrassend, dat het gewone niet van het onmogelijke onderscheiden kon worden?
+
+<p>Alles was stil nu.
+
+<p>Alleen in het bamboe-boschje, op het maanlichte grasveld, tjilpte en kriekte een krekel. En vanwaar de rivier opschemerde tusschen blauwig-beglansd riet, kwam een kabbelend gemurmel, bijna onhoorbaar.
+
+<p>Anders niet.
+
+<p>Hij hervatte den zin in het boek.
+
+<p>&bdquo;.... zoodat met de dus veranderde <pb n=7>constructie, de machine, ah ja,&mdash;een besparing van arbeidskracht&mdash;hier, de tabel....&rdquo;
+
+<p>Hij ging de reeksen cijfers na.
+
+<p>&bdquo;Ja, dat geeft dus....&rdquo;
+
+<p>&mdash;Daár! weer!
+
+<p>Weer zulk een klare, helder-hooge toon, opzingend door de wijde stilte. En nu nog een, en een derde, het werd een lange vlucht van geluiden, die éen voor éen voorbijzweefden die eerstelingen achterna. Éen voor éen, zuívere volle tonen.
+
+<p>Hij luisterde, de lippen een weinig openend in zijne aandacht, als om het geluid in te ademen. En nu herkende hij het, dat was de toon van een soelingan, een inlandsche <pb n=8>fluit, als des avonds wel door de dessa klinkt, waar een jonge man zijn meisje, opgesloten bij haar ouders in &apos;t nauwe huis, naar buiten lokt met een minnedeuntje.
+
+<p>Hij wachtte, elken voorbijtrekkenden toon naluisterend, of de vlucht van geluiden zich niet zou schikken tot een melodie. Maar éen voor éen kwamen ze nog steeds er aan scheren, elk op zich zelf in zijn eigen zuivere volheid uitklinkend. Geen die door een vorig getemperd werd, geen die in een volgend vervloeide; zonder merkbare modulatie of maat.
+
+<p>Als vallende droppels.
+
+<p>Nu! nu, op dien hoogen, langaangehouden toon die trilde, of hij nog <pb n=9>even stil wilde blijven, voor hij opschietend de hoogte invloog, nu moest de melodie beginnen!
+
+<p>Maar het daalde weer, daalde, bleef een lange seconde hangen, en begon dan op en neer te wiegelen, op en neer, in langzame zwevingen.
+
+<p>Als het gemurmel van een beek, die voort wil over de steenen, en soms, met een iets sterkere golf, stroomt zij er overheen, en soms, weer neergezegen, vloeit zij erlangs, er komt geen bruisen, er komt geen stokken, er komt geen eind aan het kabbelend geklok; zoo vloeide het fluitedeuntje voort, in effen bestendigheid, onwillekeurig, onaandoenlijk, zichzelven onbewust,&mdash;een natuurgeluid, <pb n=10>kabbelend over menschelijke lippen, waar de slag in beeft van het purperen hart.
+
+<p>De instinctief-gevoelde tegenstelling lokte den luisteraar met de bekoring, waarmede het onbegrijpelijke ons lokt,&mdash;elk onbegrijpelijk ding, ook het schijnbaar nietigste&mdash;een duizelige schrede nader lokt tot die afgrond-diepe onbegrijpelijkheid van het eigen bestaan.
+
+<p>Maar hij meende dat &apos;t slechts nieuwsgierigheid was naar den onzichtbaren fluitspeler, die hem den nacht in trok.
+
+<p>&bdquo;Waar mag hij wel zitten?&rdquo;
+
+<p>Hij tuurde of hij niet ergens een donkere gedaante ontwaarde.
+
+<pb n=11><p>Het was zoo licht, dat op het tuinpad elk wit kiezelsteentje afzonderlijk blonk. Het bamboe-boschje, doorgloord van manelicht, vervloot in nevelige glanzen en doorschijnende donkerheid. Luchtig als een wolk hing het boven het nauw-beschaduwde gras.
+
+<p>Daarbuiten, langs het stille fabrieksplein, schemerden de woningen der employés met witte pilaren door de looverduisternis der tuintjes.
+
+<p>Hij ging den landweg op, die langs de rivier loopt; de tamarinden van den oever wierpen er luchtige grijze teekeningen over.
+
+<p>Het water vloeide met een bijna onmerkbare beweging, zoo rustig, <pb n=12>dat aan de weerspiegeling der boomen geen twijgje trilde; scherp en doorschijnend als een gietsel van bleekgroen glas lag zij onder de blanke oppervlakte. Alleen tusschen het oeverriet maakte de strooming voortspoelende kringetjes, en rekkende kronkelingen, die op zilveren slangetjes geleken, voortzwemmende van halm tot halm. De suikerrietvelden aan de overzij stonden roerloos, een flikkering van wit-beglansde wimpelbladers, waar het bloesem-pluimsel dun en donker als een stippelige nevel over hing. Zoo dikwijls Bake er naar gekeken had overdag, wanneer de koelies er aan het werk waren en de employés den rijpenden <pb n=13>oogst schatten, nu schenen die wijde velden hem nieuw en vreemd. Dat waren niet meer akkers met zorgvuldig gekweekten rijkdom, het was een door geen mensch nog betreden vlakte vol prachtig gewas. En evenzoo werd de welbekende tamarindenrij langs den landweg een uitlooper van het bosch, dat in de verte de zilveren heuvels wolkig maakte. En de kalkwitte fabrieksgebouwen onder hun zinken dak veranderden in blanke klippen en rotsen waar een langzame beek van maneglanzen afvloeide. Over alle dingen was de verheerlijking gekomen van den lichten middernacht.
+
+<p>Weer de fluit nu! hij hief het hoofd op en luisterde.
+
+<pb n=14><p>Het deuntje begon overnieuw,&mdash;als het een deuntje heeten mocht wat eerder leek op het kabbelen van water,&mdash;op windgeruisch door riet,&mdash;op het tjilpen van kleine vogels des avonds, wanneer de lucht nog rood is van den zonsondergang, maar het al donker wordt tusschen de takken waar hun nestjes zitten, zoo, simpel-weg zonder een zweem van de willekeur en den hartstocht, waarmee de gedachte van den westerling zich verklankt tot muziek. Het hoorde bij de stilte, bij den maneschijn in den Indischen nacht. En langzamerhand,&mdash;hij begreep het niet,&mdash;langzamerhand werd het of hij dit alles al lang kende,&mdash;niet <pb n=15>het fluitedeuntje zelf, maar de gewaarwording die in hem er op antwoordde, als een echo op een roepende stem uit de verte. Herinneringen kwamen in hem op, vroolijke en stille, oogenblikken die hij lang vergeten had, en sommige waarvan hij niet wist eerst dat hij ze ooit had geleefd; nu kwamen ze een voor een met een gloor van sterretjes aan een schemerige lucht: een thuiskomst van de Haagsche kermis met een troep joelende clubgenooten in den vroegen ochtend, toen er een met dronkemans-koppigheid absoluut langs het strand wou rijden, en opeens had de blanke zee hem tegengeschenen, met de pinken die uitzeilden; <pb n=16>de stem en de oogen van een klein meisje, dat hij eens meegenomen had in zijn boot, toen hij zich oefende voor den roei-wedstrijd; een regenbui waar hij op een Aprildag lang geleden in had geloopen, blootshoofds door het veld, terwijl de lente neerviel in de malsche droppels, en door de knotwilgen de koekoek riep.... Het waren geheel andere dingen, het scheen of zij niets te maken hadden met dat deuntje, dat hij nu volgde alsof het hem trok, zacht, en niet te weerstaan trok; en toch was daar een heimelijke, onbegrijpelijke overeenstemming, een herinnering, een weder-herkennen, dat het tegenwoordige oogenblik ophief <pb n=17>in de sterretinteling van het verleden en het leven rondom diep maakte en wijd als een hemel....
+
+<p>Nu zweeg het fluitspel.
+
+<p>Stilstaande zag de jonge man om zich heen. Hij was aan een grens gekomen van maanlicht en duisternis, aan een schaduwkring dien een zwarte boomen-massa wijd over het glorige gras spreidde. Onduidelijk nam hij een dicht gedrongen menigte van stammen waar, lang afhangende groeisels en van maanlicht even beglommen looverspreidingen. Een geur van verwelkende bloemen hing in de lucht. Hij herkende den heiligen waringin aan den ingang van het dorp, waar de vrome passargangers <pb n=18>den Danhjang-Dessa offeranden van jasmijn-bloesem plachten te brengen op het zoden-altaar. Hij was ver van de fabriek af gekomen.
+
+<p>Langzaam ging hij terug door het van dauw wit glinsterende en druipende gras. In de stilte van zijn gedachten zong het deuntje der fluit voort, en zijne stappen schikten zich naar de onhoorbare maat.
+
+<p>Nog een poos lang wakker liggend in de duisternis van zijn huis, bleef hij luisteren of niet weer het klare geluid aan kwam strijken.
+
+<p>Toen kwam de gedachte aan zijn werk weer terug. Hij sliep in met de voorstelling van de nieuwe machine die hij op zou stellen in het molenhuis.
+
+
+
+<pb n=19>
+<div1 id=ch2 rend="toc-head(2)">
+
+
+<p rend="class(dropcap)">De dag was gloeiend geweest; nu, met zonsondergang, begon het af te koelen.
+
+<p>Een nauw merkbare windtocht ging in donkerten en bleekheden door het geboomte en deed den daglang opgezamelden bloesemgeur uit neigende kelken uitvloeien op de lucht; gedragen daalden de doorschijnend-witte bloemblaadjes der njamploengs neder in het stof en het vaal-oranje geschroeide gras van den berm.
+
+<pb n=20><p>In de modderige rivier was het dessavolk aan het baden: als pasgegoten brons glansden de bruine gestalten in den schuinschen rooden zonnegloed. Een naakte jongen, dien twee andere nazetten, kwam den weg afgerend en vloog met een sprong van de oeverhoogte af in het water, dat schitterend rond hem opspatte; een eind verder dook hij weer op en keek om, lachend, met oogen die tintelden onder het in het gezicht druipende haar.&mdash;Aan den kant stond een jonge vrouw, slank in haar rooden sarong, die, donker-gedrenkt, haar in waterige plooien van boezem tot knie omvloeide. Het hoofd een weinig neigend, hief zij <pb n=21>beide armen op om haar zwarte haarwrong wat hooger te schikken. Haar schouders en haar gebogen nek glansden goudachtig boven het purperen gewaad.&mdash;Van de bocht der rivier af, waar het water gloorde als paarlemoer veeltintig en zacht, kwam een woonprauw aandrijven; een witte haan, die nog maar éen veer in zijn staart had, stond blinkend op het grauwe bladerdak. Hem in het oog krijgend begonnen de badende jongens uitdagend te kraaien, waarop de vogel zijn mageren hals oprekte en antwoordde met een schor geluid; het uitgelaten gelach van het troepje schaterde over het water.
+
+<pb n=22><p>Bake, die met zijn lange, veerkrachtige passen den weg langs de rivier afkwam, keek naar de joelende jongens met den blik van iemand die aan iets anders denkt dan wat hij ziet. Hij wilde naar het meertje tusschen de heuvels, waarvandaan de nieuwe waterleiding gegraven zou worden naar de fabriek, volgens een door hem ontworpen plan dat hij niet zonder moeite had doorgezet.
+
+<p>Terwijl hij liep, bouwde zijn fantasie dammen en stuwen, liet sluizen neer, groef kanalen, ving het water van al de fonkelende heuveltoppen rondom in een net van geleidingen, en dreef het naar de fabriek om te werken voor zijn nieuwe stoommachine. <pb n=23>Zou alles nog klaar kunnen komen voor de aanstaande campagne?
+
+<p>&bdquo;O, kúnnen&mdash;het móet.&rdquo;
+
+<p>En hij zag op als om met de oogen bezit te nemen van het land en al de krachten die er in waren.
+
+<p>Den landweg verlatend sloeg hij, dwars door een ruigte van alang-alang en struikgewas, waaruit verderop een slank jong bosch omhoog schoot, de richting in naar den plas, terwijl hij stroomopwaarts het beekje volgde dat daarvandaan naar de rivier loopt.
+
+<p>Er was hier geen pad. Tot over de enkels wegzakkend in den drassigen grond wrong hij zich door het <pb n=24>dichte groeisel heen. Tusschen de slank opgeschoten stammen van palmen en breedbladerige wilde pisangboomen was het een taai, lang-strengelig warsel van opschietend en afhangend gebladerte, rankende kruiden, als netten over den grond gespreid, en kronkelig saamgeweven slingerplanten. Er hing een groene half-duisternis, als ware het de zichtbaar geworden adem van dat millioenentallig plantenvolk. En de koele lucht van het water en van de natte steenen in de beek vermengde zich met duffige aarddampen en met den reuk van het groen, tot een wadem die tegelijk prikkelend was en zwaar. Terwijl Bake voortworstelde, zwiepende <pb n=25>takken op zij slaande, en zijn kleeren losrukkend uit de slingerlissen der doornige rottan, zweefden hem telkens opgejaagde zwermen muskieten in &apos;t gezicht. Hij sloeg waar ze hem staken, en voelde zijn handen nat van bloed. Hijgend en overstroomd van zweet bereikte hij den zoom van het bosch.
+
+<p>De vallei lag voor hem. De plas schitterde, overgloord van den afschijn der avondwolken. Het riet aan de kanten scheen op te sprieten uit een vloed van vuur. Hij baadde zijn heet geschramd gezicht en handen koel, en uit een pisangblad een stuk van het zijde-achtig piepende weefsel scheurend, draaide hij er een <pb n=26>drinkkelk van op de wijze zooals hij het Inlanders had zien doen, en dronk met lange teugen het water dat als kwikzilver in den groenen beker glansde, rijen schitterpuntjes aanzettend langs de bladnerven.
+
+<p>De vlossige purperwolkjes aan den zenith waren slechts een onmerkbare tint vuriger geworden dan hij ze straks boven de rivier had gezien; hij begreep hoe kort de gang door het bosch geweest was die hem zoo lang had geschenen. De landweg was vlakbij; bij oostewind moest de rook van de fabriek den plas dikwijls verdonkeren.
+
+<p>En niettemin was de plek eenzaam als het hart van een oerwoud.
+
+<pb n=27><p>De stilte beving hem. Hij stond zonder aan iets te denken toen, plotseling, van vlakbij die heldere hooge toon weer klonk die hem den vorigen nacht naar buiten had gelokt. En het deuntje van den onzichtbaren fluitspeler kwam aanscheren over den plas die even zeverde als onder de trilling van het geluid.
+
+<p>&bdquo;Bake! hé, Bake!&rdquo;
+
+<p>De gedempte stem riep waarschuwend; hij keek om en zag tusschen de struiken aan den oever een gelig gezicht en een ineengedoken figuur; den Indo herkennend, die boekhouder was aan de fabriek, ging hij naar hem toe.
+
+<p>&bdquo;Wat doe je daar?&rdquo;
+
+<pb n=28><p>&bdquo;Sjt! laat hij je niet zien!&mdash;kom hier naast me,&mdash;zachtjes dan toch!&rdquo;
+
+<p>Bake dook naast den jager neer.
+
+<p>&bdquo;Loer je op een hert?&rdquo;
+
+<p>&bdquo;Op een leguaan,&rdquo; fluisterde de Indo. &bdquo;Ik kan hem niet onder schot krijgen, nu probeer ik het zóó.&rdquo;
+
+<p>&bdquo;Hoe, zóó?&rdquo;
+
+<p>&bdquo;Met de fluit; Si-Bengkok speelt. Hij zit daar aan den overkant. Stil nu!&rdquo;
+
+<p>Het leek Bake dat het fluitegeluid opsteeg uit een donkerbladerigen struik met groote roode bloemen, aan den oever van het meertje. Daar kwamen de lange, langzaam zwevende cadenzen weer terug van den vorigen nacht, rustig als een <pb n=29>kalme ademtocht. Maar gaandeweg veranderden zij van beweging, er kwam iets lichts en luchtigs in, ze dansten als de wemelende avondroodglimpjes over het water.
+
+<p>Een schitterblauwe vogel kwam aangevlogen, streek neer op een bamboescheut die bevend boog, en begon tegen de fluit op te kwetteren, hoe langer hoe driftiger, zoodat zijn kleine keel trilde, en zijn vlerkjes slap hingen. Bij oogenblikken was zijn gekweel niet van het lokken der fluit te onderscheiden.
+
+<p>Bake luisterde, glimlachend zonder het te weten.
+
+<p>Hij had zijn irrigatieplannen vergeten, en vergeten ook dat hij daar <pb n=30>zat om te loeren op een onnoozele hagedis.
+
+<p>Plotseling stiet de Indo hem aán. naar het riet wijzend.
+
+<p>Met een golvende beweging week het uiteén en stond gedeeld. Iets verder kronkelde de golving, nog iets verder, nu kwam een spits, donker ding uit het groen te voorschijn.
+
+<p>Het fluitspel verlangzaamde. De gedempte tonen bleven hangen boven de plek, gonzend als muggen die op en neer zweven in een rooden avondstraal, en wel weg schijnen te willen, en toch blijven, ongedurig en besluiteloos blijven beven op dezelfde plek, in den schuinen rooden lichtstraal.
+
+<pb n=31><p>Het spitse donkere ding waagde zich geheel uit het riet. Het was een kop met schuwe zwarte oogjes; en een grauwbruin lijf volgde, ribbelig geteekend en geplekt als een zandbank, die door kabbelend water gefatsoeneerd is; de lange, dun-uitloopende staart lag nog in het water. Nu kwam het dier geheel en al aan land, op de lokkende fluittonen af. En lag daar, luisterend en roerloos.
+
+<p>Het fluitedeuntje deinde op en neer, al langzamer op en neer, stil als een ademhaling, die nog stiller gaat worden bij het inslapen.
+
+<p>De leguaan lag als bedwelmd.
+
+<p>Behoedzaam, zonder dat hij een blad liet ritselen, stond de Indo op <pb n=32>en doodde hem met een lichten stokslag. Het dier bleef roerloos in dezelfde houding waarin het betooverende fluitspel het had doen verstijven; het leek dood-gespeeld.
+
+<p>De Indo die, tevreden, gezien had dat de huid niet gekwetst was door den slag van zijn stok, riep den fluitspeler te voorschijn uit zijn schuilplaats.
+
+<p>&bdquo;Si-Bengkok! Kom!&rdquo;
+
+<p>Uit den rood bloeienden struik zag een donker gezicht te voorschijn, met glanzige, schuchtere oogen. De hand die de twijgen opzij boog hield een bamboe-fluitje.
+
+<p>&bdquo;Kom maar hier!&rdquo;
+
+<p>De glanzige oogen zagen aarzelend naar den Hollander.
+
+<pb n=33><p>&bdquo;Nu! kom dan toch! Voor wien ben je bang?&rdquo;
+
+<p>Het loover deed zich op rondom een half-naakten knaap, die op gekruiste enkels in het groen zat. De avondhemel begloorde zijn gezicht en zijn tengere schouders.
+
+<p>Een oogenblik bleef hij besluiteloos zoo zitten; toen liet hij zich afglijden naar den oever en begon, zittende, voort te schuiven over het gras, met een beweging die aan het huppelen van een onbeholpen jongen vogel deed denken.
+
+<p>Bake meende eerst dat hij uit de onderdanige beleefdheid van een Javaan tegenover zijn meerderen zoo kruipend naderde: maar toen de <pb n=34>knaap vóor hem stilhield, zag hij dat zijn kruiselings over elkaar liggende schenkels verdord waren. Dat was het zeker wat hem dien naam van Si-Bengkok, &bdquo;de mismaakte&rdquo;, had doen geven.
+
+<p>Toch was er verder aan hem geen misvorming of teeken van lijden te zien. Zooals hij daar op zijn groene zode zat, geleek de jongen een Boeddha in den lotus-kelk. Het welgevormde jonge lijf rees rank van de heupen omhoog. Het gezicht was zacht in trek en ommelijn, als hadden liefkoozende handpalmen het uit de mollige, bruine boschaarde gevormd. Onder den sierlijk geplooiden hoofddoek, bont van bloemen en vlinderkleuren, <pb n=35>gloorden de oogen met die tinteldonkere klaarheid, die stroomend water heeft in de schaduw.
+
+<p>De Indo knikte hem toe.
+
+<p>&bdquo;Je hebt goed gespeeld, Si-Bengkok! Zoo bedwelmd was hij, dat hij zelfs niet bewoog toen ik vlak voor hem stond.&rdquo;
+
+<p>Een glimlach bescheen Si-Bengkok&apos;s gezicht. Het hoofd op zij houdend, bekeek hij met aandachtige nieuwsgierigheid den dooden leguaan, stak een vinger uit om hem even aan te raken en trok snel zijn hand weer terug.
+
+<p>&bdquo;Eh!&rdquo; zei hij, en lachte als een kind.
+
+<p>&bdquo;Je moogt het vet houden voor medicijn,&rdquo; zei de Indo.
+
+<pb n=36><p>&bdquo;Heeft hij pijn?&rdquo; vroeg Bake.
+
+<p>De ander haalde de schouders op.
+
+<p>&bdquo;Ik geloof &apos;t niet, waarom zou hij? Hij is van kind af altijd zoo geweest. En hij is vroolijk genoeg. Je hoort hem den heelen dag met zijn fluit.&rdquo;
+
+<p>&bdquo;Omdat je sprak van medicijn.&rdquo;
+
+<p>&bdquo;O ja, dat is zoo&apos;n idee van hen. Het vet van een leguaan geldt als middel tegen alle mogelijke en onmogelijke kwalen. Wacht even hier, Bake, ik zal een paar koelies roepen dat ze het beest voorzichtig naar huis pikollen.&rdquo;
+
+<p>Hij verdween tusschen de struiken.
+
+<p>Of hij nu onbeschermd was achtergelaten dook Si-Bengkok inéens tusschen het riet: het stond met fijne <pb n=37>groene halmen verbergend om hem heen.
+
+<p>Met een onwillekeurigen glimlach vroeg Bake:
+
+<p>&bdquo;Was jij dat, Si-Bengkok, die gisteren nacht zoo mooi op de fluit speelde, bij den waringin aan den ingang van de dessa?&rdquo;
+
+<p>De jongen antwoordde met de weifelende uitdrukking die de Inlander tegenover zijn meerderen in plaats van &bdquo;Ja&rdquo; gebruikt:
+
+<p>&bdquo;Misschien, Heer.&rdquo;
+
+<p>&bdquo;Ik ben naar buiten gegaan om je te hooren, zoo mooi vond ik je gefluit. Kom morgenavond bij me en speel me nog eens zoo&apos;n deuntje voor, dan zal ik je een &bdquo;pitji&rdquo; geven. <pb n=38>Weet je waar ik woon op de fabriek?&rdquo;
+
+<p>&bdquo;Ik weet het, Heer,&rdquo; murmelde Si-Bengkok zonder op te kijken.
+
+<p>&bdquo;Goed. Zal je komen?&rdquo;
+
+<p>&bdquo;Zooals mijn Heer het beveelt...&rdquo;
+
+<p>De Indo kwam terug, gevolgd door twee mannen die een langen bamboestok op de schouders droegen. Den bijna smeekenden blik ontmoetend dien Si-Bengkok naar hem ophief, maakte hij achteloos het gebaar van afscheid-geven; dadelijk was de jongen verdwenen in het dichte groen.
+
+
+
+<pb n=39>
+<div1 id=ch3 rend="toc-head(3)">
+
+
+<p rend="class(dropcap)">Tot het donker werd wachtte Bake op hem den volgenden avond; maar hij kwam niet; en ook den avond daarna bleef hij weg.
+
+<p>&bdquo;Hij zal toch niet ziek zijn?&rdquo; vroeg Bake den Indo.
+
+<p>&bdquo;Ziek? Hij heeft geen zin om te komen, doodeenvoudig. Dacht je dan dat een Javaan ooit iets voor een Hollander doen zou tenzij gedwongen? Als je een poos op de <pb n=40>fabriek geweest bent zul je wel beter weten; ze hebben nooit meer pleizier dan als de boel verkeerd loopt. Je hebt van die Hollandsche idees, humaniteit en vooruitgang en zoo,&mdash;daarmee kom je er niet, hier. <hi>Ik</hi> zal je Si-Bengkok wel eens sturen, als je hem absoluut hebben wilt.&mdash;Wees maar niet bang!&rdquo;&mdash;hij lachte om de uitdrukking van onwil in Bake&apos;s oogen,&mdash;&bdquo;ik zal het lieve jongetje niet slaan!&rdquo;
+
+<p>Bake wendde zich af; de minachting waarmee de half-bloed over zijn moeders volk sprak was hem tegen de borst.
+
+<p>Si-Bengkok kwam werkelijk dien avond, maar zoo klaarblijkelijk tegen <pb n=41>zijn zin, en zoo schuw en ongelukkig, als een gevangen, bang klein dier, zat hij in het donkerste hoekje der galerij, dat Bake hem half-onwillig, half medelijdend weer wegstuurde, hem het beloofde dubbeltje gevend met de bijvoeging dat hij niet meer terug hoefde te komen.
+
+<p>&bdquo;Waarvoor is hij eigenlijk bang?&rdquo; dacht hij getroffen door den schuwen blik van den knaap; het was hem of de vrees van het overwonnen ras voor het overwinnende hem daaruit aanzag. Iets dat hij een paar dagen geleden op den landweg had gezien kwam hem weer in de gedachte:&mdash;een schaar Inlanders met afgewend gelaat neerhurkend op de nadering <pb n=42>van een in een rijtuig gezeten ambtenaar die hen zelfs niet scheen te bemerken, terwijl hij, een stofwolk over hen heen jagend, voorbij reed. Hoewel wetend dat de slaafsche wijze van begroeting in het volksgebruik lag, gevoelde hij bij de herinnering opnieuw dien schok van weerzin, verontwaardigd medelijden en schaamte, waarmee het stuitende gezicht hem getroffen had,&mdash;schaamte vooral, alsof de vernedering dier kruipende mannen en vrouwen zijn eigene ware. De naam &bdquo;Compagnie&rdquo;, waarmee de Inlander de Hollandsche machthebbenden ten huidigen dage nog noemt, kwam hem in de gedachte. Maarschalk Daendels en zijn <pb n=43>met bloed gecimenteerde postweg, de politiek der Indische baten, dat alles was lang geleden. En toch, na zóo veel jaren van wel willen en wel doen zag een Javaansche jongen een hem onbekenden Hollander met angst aan. Verjaarde onrecht ooit?
+
+<p>&bdquo;Doe me het genoegen en laat Si-Bengkok met vrede,&rdquo; zei hij den volgenden dag tegen den Indo, die hem spotachtig vroeg of de jongen naar zijn zin had gespeeld.
+
+<p>De andere trok zijn hoekige schouders op.
+
+<p>&bdquo;Ja, zoo moet je een Inlander maar behandelen! Of hij toch al niet brutaal genoeg was!&rdquo;
+
+<pb n=44><p>Bake begreep dat Si-Bengkok&apos;s vrees voor den halfbloed sterker was dan zijn schuwheid voor hèm, toen hij, dien avond thuiskomend, het fluitspelertje op de treden zijner voorgalerij vond zitten. Ook de volgende dagen weer zag hij hem telkens met het invallen van de schemering verschijnen. Meer om zichzelven van den druk der opgedrongen dwingelandij te bevrijden dan om den wille van dien Inlandschen jongen, begon hij nu Si-Bengkok vriendelijk te bejegenen, opdat hij uit zich zelven terugkomen zou, met hem omgaande zoo ongeveer als hij als jongen was omgegaan met een eekhoorn dien hij wilde temmen. Zelf <pb n=45>kreeg hij gaandeweg schik in het spelletje dat hij half uit onwil begonnen was. En zoo als de eekhoorn op het laatst zijn hoog nest in den sparreboom uit kwam om de beukenootjes op te knabbelen die de jongen in de dakgoot voor hem strooide, zoo kwam Si-Bengkok van lieverlede uit zijn bange terug-getogenheid te voorschijn, antwoordde met wat meer dan dat onderworpen &bdquo;Ja Heer&rdquo; op Bake&apos;s gezegden, en begon tusschenbeide uit zichzelf te praten over wat er in de dessa al zoo voorviel. Bake kreeg kijkjes op een leven waarvan hij zich tot nog toe geen voorstelling had gemaakt.
+
+<pb n=46><p>Het was einde April en de rijstoogst, laat in de heuvelige streek, was juist begonnen. Des ochtends vroeg kwamen de vrouwen en de meisjes van de dessa, frisch gekleed en met bloemen in de haarwrong, waardoor, als een sieraad, het houten rijstmesje gestoken was, in lange rijen den landweg af. En des avonds klonk uren achtereen het zilverige gamelan-getinkel uit de woning van het dorpshoofd, waar de plukkers oogstfeest vierden.
+
+<p>&bdquo;Ik heb hooren zeggen dat de doekoen een waarlijk-goeden dag heeft aangewezen om met het plukken te beginnen,&rdquo; zei Bake, woorden van een aan de waterleiding <pb n=47>werkenden koelie opgevangen op goed geluk af herhalend, om te zien wat Si-Bengkok er op zou antwoorden. Hij deed dat wel meer, beproevend als een die, behoedzaam, een onbekend speeltuig aanraakt, benieuwd of het stom zal blijken, of een wanklank laten hooren, of plotseling een vol harmonisch geluid geven. &bdquo;Dat kan men dáaraan merken dat het plukken zoo bijzonder goed gaat!&rdquo;
+
+<p>Si-Bengkok knikte.
+
+<p>&bdquo;Ja, de doekoen hier is een zeer geleerd man, ervaren in alle geheime wetenschap! Uit al de dessaas in den omtrek komen de menschen bij hem, wanneer zij een nieuw veld <pb n=48>willen ontginnen, of onderhandelingen willen aanvangen over het huwelijk hunner kinderen, of een paar buffels willen koopen voor den ploeg. Er zijn immers zoovele ongeluks-dagen in het jaar! en hoe slecht zoude het gaan met de zaak, die men op zulk een dag begon! Als men dan een veld ontgint, zal het weinige en dunne aren dragen. En als men zijn zoon uittrouwt zullen geen kinderen uit het huwelijk voortkomen, en man en vrouw zullen spoedig naar den priester gaan om zich te laten scheiden. Wat echter op een gelukkigen dag in de hand genomen wordt, dat gedijt. Daarom komen de menschen bij Pak-Djono <pb n=49>hier, die zeer verstandig is in het berekenen der gelukkige dagen, en vragen hem om raad. En Pak-Djono neemt een boek waar veel in geschreven staat, en hij leest daarin, en schrijft met zijn vinger op den grond, en denkt na en zegt: &bdquo;Op dien en dien dag van die en die pasar-week, doe dan wat in je hart is, en het zal je gelukken!&rdquo; En altijd is het goed en waar, zooals hij het gezegd heeft. Zoo heeft hij ook gedaan voor dezen oogst, dien het dessa-hoofd houdt in de rijstvelden!&rdquo;
+
+<p>&bdquo;Heeft hij ook den dag al bepaald voor de &bdquo;Bruiloft van de rijst&rdquo;?&rdquo; vroeg Bake. &bdquo;Ik zou het graag willen zien hoe hij het Bruidspaar kiest.&rdquo;
+
+<pb n=50><p>&bdquo;O!&rdquo; riep Si-Bengkok, &bdquo;het is waarlijk zeer mooi om dat te zien, want Pak-Djono doet het alles op de welvoegelijkste wijze, geheel volgens de heilige voorschriften. Eerst, op het vastgestelde uur, ontsteekt hij een offer aan de vier hoeken van het rijstveld, en hij plant op elken hoek een hoogen glaga-halm. En dan gaat hij het veld in, voorzichtig loopende, en hij wacht tot hij twee dicht bij elkander groeiende halmen vindt, die langer zijn dan al de andere, zoodat ieder zien kan, dat deze de bruid en de bruidegom zijn, volgens de onderwijzing van Dewi Sri. Deze dan bindt hij te zamen, en hij zalft ze met boreh, en versiert ze met kransen van melatih-bloemen, <pb n=51>en maakt boven hen een bladeren-dak om hen voor de hitte te beschutten. En dan zoekt hij zes andere halmen, die ook zeer lang zijn, en twee aan twee bij elkander groeien dicht rondom het bruidspaar, dat zijn de gezellinnen van de bruid en de vrienden van den bruigom, en hij geeft ze aan het paar als een eerestoet. Als dit alles zoo geordend is, dan eerst beginnen wij met het plukken der rijst!&rdquo;
+
+<p>&bdquo;Je zei: volgens de onderwijzing van Dewi Sri. Wie is Dewi Sri?&rdquo;
+
+<p>&bdquo;Eh! dat is zij die zorgt voor de rijst! De rijst leeft door haar geest.&rdquo;
+
+<p>&bdquo;Eene godin dus?&rdquo;
+
+<p>&bdquo;Zij is zeker een godin. Hoe zou <pb n=52>zij anders het rijstveld kunnen beschermen?&rdquo;
+
+<p>&bdquo;Maar Allah dan, Si-Bengkok, de Heer Allah die God is, en naast hem zijn geen andere Goden?&rdquo;
+
+<p>&bdquo;Allah is Heer over alles! maar Dewi Sri die zorgt voor de rijst!&rdquo; antwoordde Si-Bengkok.
+
+<p>Hij kende een geheelen hemel vol goden, godinnen, nimfen, geniën, boos en goed, die macht hadden over het menschelijke leven en recht op gebeden, eer-betoon en offers. De booze geesten vooral moesten ontzien worden, zij waren uiterst licht-geraakt en wraakgierig; een wijs mensch zou altijd zorgen met hen op een goeden voet te blijven, en desnoods liever <pb n=53>de goede geesten wat veronachtzamen, die immers uit hun aard niet geneigd waren iemand kwaad te doen. Voorts was er een ontelbare menigte mindere geesten, die steenen en planten bewoonden, en als men boomgaard en akker vrucht wou zien dragen, moest men in den omgang met hen bepaalde vormen in acht nemen, en hen aanspreken bij den naam waarbij ze het liefst genoemd werden. Het was echter niet zoo gemakkelijk te weten te komen welke naam dat was van de vele die zij dragen; dat hij die zeldzame kennis bezat was volgens Si-Bengkok de reden waarom Si-Djembar, de zoeker van palmsuiker, zoo gelukkig was in zijn beroep.
+
+<pb n=54><p>Bake had hem, op een avond, een koekje van de donkerbruine, geurige suiker gegeven; en de jongen, die op zoetigheid zoo vernibbeld was als een bij, genoot ze bij kleine knabbelbeetjes, de lekkernij telkens bekijkend terwijl hij ze los-schilde uit haar omhulsel van gevlochten bladvezels.
+
+<p>&bdquo;Deze suiker,&rdquo; merkte hij waardeerend op, &bdquo;is zeker bij Si-Djembar gekocht; ze is van de arèn die groene bloesems heeft, dat is de geurigste van alle. Hij weet waar die groeit in het bosch! Eh! hij kent de spreuk om haar te vinden en de spreuk om haar veel sap te doen geven!&rdquo;
+
+<p>&bdquo;Er zijn vele spreuken daarvoor, en ook verstandige menschen twisten <pb n=55>er over welke de beste is!&rdquo; <corr sic="zeí">zei</corr> Bake, het spelletje van beproeven en luisteren weer beginnend.
+
+<p>Si-Bengkok maakte het klappende tonggeluid, waarmee de Inlander verontwaardiging uit.
+
+<p>&bdquo;Eh! hoe kunnen zij twisten! Alle menschen en zelfs de kinderen in dit dorp weten dat de tooverspreuk van Si-Djembar de krachtigste is! Draagt hij niet op éen dag twee volle bamboe-kokers sap weg uit de boomen die hij belezen heeft? Eh! ik heb het gehoord hoe hij den palm toesprak. Hij zag mij niet want ik had mij verborgen achter een struik. Hij hield de arèn omvat met beide armen, en hij zei overluid: &bdquo;O Moeder Endang <pb n=56>Reni! Voor jou heb ik me doornat laten regenen, zoodat het water uit mijn hoofddoek droop! Voor jou heb ik me door de zon laten verschroeien, zoodat mijn leden gloeiden als in koortshitte! Zóo zeer verlangde ik naar je! Nu heb ik je dan eindelijk gevonden. Vroeger dronk ik menigmaal aan je borst lang en overvloedig. Doch sedert lang lijd ik nu gebrek. Geef mij daarom weder te drinken, Moeder Endang Reni! Geef mij zooveel, dat ik in vier van de allergrootste kokers niet alles op kan vangen.&rdquo;
+
+<p>&bdquo;En won hij veel sap toen hij die spreuk had opgezegd?&rdquo;
+
+<p>&bdquo;Zeer veel, zeer veel won hij! Ik kwam terug om te zien hoe het ging, <pb n=57>na vijf pasar-weken, toen ik wist dat hij den bloemstengel genoeg geklopt zou hebben, en dat ook de eerste bloesems aan den tros opengegaan zouden zijn,&mdash;want vóor dien tijd mag het aftappen van het sap niet beginnen. Si-Djembar had den stengel juist afgesneden, die was als de staart van een koe, dik en lang, en in een punt uitloopend! En hij zat boven in den boom en hing aan den stomp een klein kokertje.&rdquo;
+
+<p>&bdquo;Een klein! Je zei toch straks dat hij vier zeer groote kokers vol sap wilde hebben!&rdquo;
+
+<p>&bdquo;Ja, dat is wel waar! Maar het zou niet betamelijk zijn dadelijk op onbescheiden wijze zoo veel te vragen <pb n=58>en den palm te verschrikken! Hij hing een kleinen koker op en zei: &bdquo;O Moeder Endang Reni! Uw kind versmacht van dorst! Uw kind bidt u dat gij hem laat drinken!&rdquo; En daarop antwoordde hij weer zichzelven, sprekende voor Moeder Endang Reni, en zei: &bdquo;Mijn kind drinke tot verzadigd wordens toe! Moeders borsten zijn overvol. Hij drinke tot hij een tegenzin hebbe in mijne melk!&rdquo; Zoo sprak Si-Djembar, ik hoorde het zelf, zeer duidelijk. En den dag daarop ben ik weer gegaan naar zijn huis in het bosch, en ik zag hoe zijne vrouw het sap op haar fornuis tot suiker kookte. Daar was zooveel dat zij geen steenen potten genoeg had. <pb n=59>Eh! Si-Djembar heeft de ware tooverspreuk voor de arèn!&rdquo;
+
+<p>&bdquo;Hij woont geheel alleen in het bosch, nietwaar, die Si-Djembar? daar waar het &apos;t allerdichtst is, want daar groeit immers de arèn met groene bloesems?&rdquo;
+
+<p>&bdquo;Zoo is het, Heer.&rdquo;
+
+<p>&bdquo;En is hij dan niet bang voor de tijgers?&rdquo;
+
+<p>Si-Bengkok zag onrustig om; het was hem onaangenaam dat die Hollander zoo overluid het woord uitsprak dat men van den Grooten Heer in &apos;t Woud niet behoort te bezigen. Fluisterend legde hij Bake uit dat de tijger slechts in schijn een dier is, in waarheid echter een mensch die door <pb n=60>kracht van tooverij dierengestalte heeft aangenomen, doch in die verandering zijn menschelijken geest behoudt; daarom moet, wie den Grooten Heer in het woud ontmoet, hem niet met de kris bedreigen, doch hem hoffelijk toespreken; en wie hem herinneren kan aan diensten hem bewezen gedurende zijn dag-bestaan in de dessa,&mdash;wanneer niemand hem voor iets anders dan een gewonen dessa-man aanziet, behalve de in geheime wetenschap ervarenen, die zijn aard ontdekken aan den vorm zijner hielen,&mdash;dien spaart de Groote Heer stellig. Zonder twijfel bejegende de palmsuiker-zoeker de weertijgers dus. &bdquo;Daarom doen zij hem niets, en hij <pb n=61>hoeft hen niet te vreezen, al zouden zij ook nog zoo luid en verschrikkelijk brullen bij zijn huis. Waarlijk, Heer! zoo is het!&rdquo; eindigde Si-Bengkok, ernstige oogen opheffend.
+
+<p>Bake knikte.
+
+<p>Hij dacht aan de verhalen van den weerwolf die de oude herder, op het heidedorpje waar hij geboren was, hem placht te doen, als hij meeliep met de kudde.
+
+<p>Uit welke onheugelijke oudheid, toen mensch en dier nog vertrouwelijk met elkaar omgingen, hadden wij die voorstelling overgehouden?
+
+<p>Zulke gedachten bleven hem bij, als hij des ochtends naar zijn werk ging op de fabriek. De kisten met <pb n=62>de nieuwe machinerieën waren aangekomen. Er werd beraadslaagd over ruimte en plaatsverdeeling, nagezien, afgebroken, aangebouwd. De employés spraken over het riet dat te velde stond, over suikerprijzen, en de concurrentie die te vreezen was van een nieuw opgerichte fabriek in de buurt. Hij zelf sprak mee daarover. Thuiskomende vond hij de vakbladen die de administrateur onder de employés rond liet gaan. Hij las over ziekten van het suikerriet en nieuwe methoden van behandeling, las de statistiek van de suikerproductie op Java, vergeleken met die van Cuba en Amerika, en de maatregelen die de schrijver noodig achtte <pb n=63>om der Nederlandsch-Indische industrie haar plaats op de wereld-markt blijvend te verzekeren.
+
+<p>Hij verdiepte zich daarin. Die arbeid en die wetenschap waren de werktuigen waarmee hij zijn bestaan moest fatsoeneeren, zijn weg moest maken door het gedrang naar de veilige plaatsen van den rijkdom.
+
+<p>Maar door rumoer en berekeningen heen braken telkens gedachten, die glansden als een stukje blauwe zonnelucht, door den hoogen, zwarten <corr sic=fabriekschoorsteen>fabrieksschoorsteen</corr> heen gezien.
+
+<p>De dagelijksche dingen om hem heen, een boom, een paar karbouwen voor den ploeg, de woorden en gebaren van het landvolk langs den <pb n=64>weg troffen hem nu vaak als iets zeer bijzonders, dat een diepe beteekenis had. Als hij eene rijstschuur zag,&mdash;een van die bevallige uit bamboe gevlochten hutjes, die den vorm hebben van een wieg, van smallen grondslag oprijzend naar een breed-overspreidend dak,&mdash;dan ontwaarde hij daarin nog iets anders dan alleen een voorraad-kamer; de liefelijkheid der Rijst-Bruid hing er over. Het kwam hem natuurlijk voor dat de dessalieden den honderd-stammigen waringin bij de rivier voor de woonplaats hielden van den Danhjang-Dessa, den vriendelijken beschermgeest van het dorp, en dat zij welriekende zalf, eieren en bloemen ten <pb n=65>offer brachten op het altaar van zoden in de schaduw. Het denkbeeld der zielsverhuizing, dat den Inlanders zoo gemeenzaam is, leek hem niet langer iets te eenenmale onzinnigs.
+
+<p>Als jongen, toekijkend bij het bouwen van een pier in zee, was hij eens door de duikers meegenomen naar beneden. Hier was het eene nieuwe wereld, daarin gold geen der wetten meer, waarop hij tot dat oogenblik toe zijn eigen leven en alles om hem heen gegrondvest had geloofd. Het zware werd licht, het meêgevende weerstond, wat klank was veranderde in beweging, de zon verbleekte<corr>,</corr> het donker kleurde purper. Tusschen zonderlinge bloemen, die <pb n=66>nooit een wind bewogen had, hingen visschen in plaats van kapellen en bijen. Het scheen alles onmogelijk, doch het wàs zoo, het was de werkelijkheid, alleen maar dat zij in niets geleek op de werkelijkheid die hij kende; en nu moest hij alles afleeren, zijn gewone zien, zijn gewone bewegen, zijn gewone doen en oordeelen, en hij moest in zich zelven zoeken naar nieuwe organen om met die nieuwe wereld in gemeenschap te komen, naar een nieuwen zin om haar te ontvangen, naar eene nieuwe kracht om in haar te werken. Toen hij eindelijk naar boven kwam hadden de pier en de hemel en het strand vol menschen hem een oogenblik vreemd geleken.
+
+<pb n=67><p>Zoo ging het hem nu soms, als hij luisterde naar Si-Bengkok&apos;s onschuldige praat. Alles om hem heen veranderde voor zijn droomerig beschouwen. Het land om hem heen was niet meer de rijke kolonie, het complex van zóo- en zóoveel residenties, waar Hollanders bestuurden en recht spraken en belasting hieven, fabrieken bouwden, irrigatie-werken aanlegden, fortuin maakten; het was dat Tana Djawa waar Boeddha&apos;s aloude tempelburcht nog niet geheel tot puin vervallen is, waar in het gebergte kluizenaars de Leer van het Heldere Water bepeinzen, tot hun ziel zoo klaar is geworden als dauw, en waar de godin Sri den landbouwer <pb n=68>te hulp komt, die haar aanroept bij het ontginnen van zijn rijstveld.
+
+<p>En in dat land was hij niet een bouwer van machines en zoeker naar veel geld, maar een die in den zonneschijn vele schoone en liefelijke dingen beschouwde, en, als het donker werd, luisterde naar zoete fluitedeuntjes en verhalen van wonderen.
+
+<p>Het was maar een spelletje, dat wist hij wel, een spelletje dat slechts gespeeld kon worden in den korten tijd die nog vóor het begin van ernst en werken was,&mdash;vóor het begin van de campagne; maar zoo lang gaf hij zich gewillig aan de bekoring over. Hij liet Si-Bengkok al zijn deuntjes spelen; wat mannen en meisjes elkaar <pb n=69>toezingen in het rijpe rijstveld; wat de karrevoerder neuriet om zijn langzame karbouwen in den stap te houden; wat moeders kirren tegen hun inslapend kindje, en hij liet hem lange verhalen doen van het dwerghertje en den olifant, van prinsessen die eenzaam in het woud een jagersleven leiden en van nimfen die als vogels heen en weer zweven tusschen den heiligen berg Endra Kila en het vertrek van den jongen held, dien zij tot echtgenoot hebben verkoren. Wat hem bekoorde was niet alleen het dichterlijke dier oude legenden, dier zeden en gebruiken, die tegelijk zinnelijk waren en naïef-vroom, die fantasie die met de zware werkelijkheid <pb n=70>speelde als met een schitterende vrucht haar uit gouden takken in den schoot gevallen, en zij wierp die op en ving ze weer, en verheugde zich in den glans en den geur er van; het was nog meer dan dat alles, die nieuwe gewaarwording&mdash;nieuw, maar zij kwam als een welbekende, welbetrouwde&mdash;van vereenzelviging der menschelijke gedachte met het natuur-bestaan. Het rekenen van levensjaren naar de herhaalde feesten van den oogst; het eerbiedig bejegenen van velden en boomen als vriendelijke wezens, geneigd en machtig tot helpen; het eeren der onbluschbare zielevlam, zooals zij in gestadig heen en weder flikkeren vonkelde uit dierenoogen <pb n=71>of glansde in een menschenblik; dat alles gaf hem het bijna physieke gevoel van een voortdurend in elkander stroomen en gezamenlijk golven en stuwen van alle ontelbare krachten der aarde, de zichtbare en de onzichtbare, de geweldige, de geringe, de verborgene, de openliggende, zoodat de elementen vriendelijk werden en de mensch stil.
+
+<p>Hoe goed en gelukkig en wáar was het leven dat zóo geleefd werd! Een kinderleven. Een dichter-leven. En had hij het zelf niet ook gekend&mdash;voor enkele dagen, enkele oogenblikken? Als jongen, wanneer hij languit in het bloeiende heikruid lag, doortinteld van den honinggeur die de <pb n=72>zoemende bijen dronken maakte, denkende aan volstrekt niets, terwijl hij de wolken zag zeilen.... En later ook nog, niet zoo dikwijls en zoo lang meer, bij oogenblikken die hem nu weder te binnen kwamen,&mdash;enkele oogenblikken, als, midden in den roes van zijn eenlings-bestaan in de blind en doof warrelende maatschappij, hij plotseling het licht had ontwaard en de majesteitelijke orde van het wereldleven. De zee met de uitzeilende pinken in den ochtend,&mdash;de lenteregen op het bruine veld,&mdash;de stem en de oogen van dat kleine meisje dat hij roeide, het waren even zoo vele openbaringen geweest van dat alles vervullende leven. En ook het fluitspel <pb n=73>van Si-Bengkok was zulk een openbaring; en de ontroering die hij zelf gevoelde wanneer hij er naar luisterde.... Geene ontroering, een gewaarworden. Zulk een stil, sterk gewaarworden van eeuwige krachten die hem doordrongen en droegen. Hij besefte zich zelven als een hoeveelheidje in de oneindigheid van leven die hem omringde, niet wezenlijk onderscheiden van hoeveelheidjes, die menschen of rotsen of sterren waren. Hij voelde zich voortgestuwd op den stroom die de werelden draagt. En de meeningen, de voornemens en de begeerten, die de zelfzucht hem pas als zoo uiterst gewichtig voor zijn geluk had opgedrongen, hij liet <pb n=74>ze varen, en zag ze heenglijden en zinken weg als verdwijnende donkerheidjes. Maar om zich heen voelde hij stuwend en steunend tallooze krachten van schoonheid en goedheid en geluk.
+
+
+
+
+
+<pb n=75>
+<div1 id=ch4 rend="toc-head(4)">
+
+
+<p rend="class(dropcap)">Radhen Pangloerah echter sprak tot zijn zuster Prinses Gouden Orchidee: &bdquo;Ik wil het koninkrijk van mijnen vader niet, want peinzende op den berg Goenoeng Tjendana heb ik geleerd welke dingen verkieselijk zijn boven macht en vorstelijken rijkdom.&rdquo; Daarop leerde hij zijne zuster de spreuk, waarmede zij hem kon oproepen, wanneer zij zijn bijstand behoefde. Hij zelf echter, met de prinsenzonen, die hem <pb n=76>volgden, verdween, afdalende in het meer van Sangean.<corr sic="&rdquo;"></corr>
+
+<p>Si-Bengkok zat aan de voeten van Bake, in de voorgalerij. Met een gebaar van geheimzinnig wegglijden besloot hij zijn verhaal.
+
+<p>&bdquo;Welke dingen verkieselijk zijn boven macht en rijkdom,&rdquo; dacht Bake. Het leek hem op dat oogenblik of de strijd om die twee dingen, die voor zoovelen de geheele inhoud van het leven is, de onzinnige worsteling van zichzelven en elkander pijnigende begeerders, die slaven, woekeren, bedriegen, uithongeren om een goed te winnen dat op die wijze niet te winnen is, hem niet aanging, hem die een zekerder en liefelijker weg <pb n=77>naar het geluk wist dan die door onrecht en leed gaat.
+
+<p>Hij zag Si-Bengkok aan, zooals hij daar zat, blij met zijn nieuwen sarong en een gebatikten hoofddoek, zóo geplooid dat de bonte kleuren aan weerszijden van zijn voorhoofd precies hetzelfde patroon maakten. Dat was de kinderlijke genius die hem het Land des Geluks binnenleidde. Met een deuntje op zijn gebogen fluit veranderde hij hem, Willem Bake, technisch ingenieur en millionnair in spe, in een zaligen geest, makker van de groene aarde en van de blauwe luchten.
+
+<p>Hij zei glimlachend:
+
+<p>&bdquo;Si-Bengkok, je hebt nu al veel <pb n=78>van tooverij en geheime wetenschap verteld; maar ik geloof haast dat er in je fluitspel ook tooverkracht zit. Als je daar zoo zoetjes zit te pijpen, dan moeten al mijn gedachten mee, evenals die leguaan verleden, die uit zijn plas kwam om naar je te luisteren.&rdquo;
+
+<p>Si-Bengkok glimlachte met hoovaardige bescheidenheid.
+
+<p>&bdquo;Daar is velerlei tooverij, doch ik ken ze niet, ik ben maar een onwetend mensch. Alleen kan ik wel zoet op de fluit spelen, zoodat wie het hoort tevreden van hart wordt.&rdquo;
+
+<p>&bdquo;Ja, tevreden van hart, zoo is het. Pijp me nu nog eens een van je zoete deuntjes voor!&rdquo;
+
+<pb n=79><p>&bdquo;Zal ik &bdquo;de Bittere Kemirienoot&rdquo; spelen? Of &bdquo;de Kikvorsch&rdquo;? Of &bdquo;de Prinses die weent in Gevangenschap&rdquo;? Ik heb er ook een nieuw, dat heeft geen naam, ik heb het zelf gemaakt,&rdquo; voegde hij er aarzelend bij.
+
+<p>&bdquo;Laat het dan dat nieuwe zijn, dat je zelf gemaakt hebt!&rdquo;
+
+<p>Si-Bengkok trok de fluit uit zijn gordel, en begon.
+
+<p>Eerst scheen het deuntje Bake niet anders dan wat hij al zoo dikwijls gehoord had, een gestadig suizen en wiegelen van altijd weêr terugkeerend geluid. Maar gaandeweg onderscheidde hij een nieuwen toon, een die lokte en riep, heel zachtjes lokte.
+
+<p>Si-Bengkok keek naar een plek op <pb n=80>den vloer, waar in het lamplicht de schaduw lag van een varen.
+
+<p>Bake volgde zijn blik. Had het ijle zwart getrild? Er bewoog iets, daar. Nu kwam het te voorschijn glijden, een klein donker kronkelend ding. Een slangetje, bruin en zwart geteekend als een orchidee, richtte haar smallen, schitter-oogden kop omhoog in het lamplicht.
+
+<p>Si-Bengkok liet zijn fluit wat hooger klinken, het kleine dier aanziende.
+
+<p>Een oogenblik bleef het roerloos; toen, zich opheffend, begon het heen en weer te wiegelen op de maat der muziek. De bruin en zwarte teekening op het sierlijke lijfje werd al levendiger, de zwarte oogjes begonnen <pb n=81>te flikkeren als diamanten. Si-Bengkok verhaastte de maat van zijn spel; met al sneller lenigheid volgde de kleine danseres. Hij liet de tonen een voor een wegdrijven, en zij vertraagde, en gaf zich willoos over, tot het scheen of ze als een donkere, rank gesteelde bloemknop maar heel even beefde onder een bijna onmerkbaren wind. De fluit zweeg. Het slangetje zeeg neer, en met eene beweging als het wegvlieten van water was het verdwenen.
+
+<p>Si-Bengkok lachte.
+
+<p>&bdquo;Al zoo dikwijls, als ik speelde, is ze te voorschijn komen kijken uit die reet daar in den muur,&mdash;maar nu heb ik haar geroepen, en zij is <pb n=82>gekomen!&rdquo; zei hij. &bdquo;Zal ik ze weer roepen?&rdquo;
+
+<p>Hij hief de fluit aan zijn lippen. En zoo haast was het deuntje niet weer begonnen, of zij kwam aanglijden uit haar donkere spleet. Bake zag haar oogen glinsteren in het lamplicht.
+
+<p>En achter haar, in den schemerigen hoek, bewoog ook iets. Hij tuurde lang voor hij het muizenpaar onderscheidde, dat rechtop zat met gespitste oortjes.
+
+<p>De latten der jaloezie ritselden even, de oude gekko, die onder het afdak woonde en nacht in nacht uit zijn schor geroep uitstiet, schoof naar binnen. Hij kwam zoo dicht bij dat <pb n=83>Bake elk tintje van blauw en bruin op zijn dikken rug kon onderscheiden. Hij keek naar den muur; daar zaten de tjitjaks onbewegelijk, hun lenige lijfjes strak als steen. Zij namen niet de minste notitie van de muskieten, die hun bijna in den muil vlogen.
+
+<p>Buiten, in den wit bloeienden kemoeningstruik, die als maanlicht gloorde, hadden een paar krekels tegen elkaar zitten tsjirpen, hoe langer hoe driftiger en harder. Maar ze waren al lang stil geworden.
+
+<p>En zeker ook zat ergens tusschen het loof der tamarinden langs de rivier de eekhoorn te luisteren, die een kleinen vogel had willen besluipen in zijn nest . . .
+
+<pb n=84><p>En al zoeter klonk het fluitje, terwijl alles rondom stil werd en aan den kemoeningstruik bloesem bij bloesem stralend openging en geurde.
+
+<p>Maar opeens klonk een lang jankend gehuil op het erf. Bake sprong op. Het was een geheele troep magere kamponghonden, die uitgegaan waren om tegen de opkomende maan te blaffen, maar de fluit hoorend, zich bedacht hadden onderweg. Den kop omhoog gestrekt, den staart tusschen de beenen, jammerden zij van aandoening.
+
+<p>&bdquo;Waarachtig, Si-Bengkok!&rdquo; riep Bake lachend, &bdquo;nu weet ik zeker dat je een toovenaar bent, en als je zoo zoet speelt dan komen niet alleen al <pb n=85>de gladakkers van de kampong, maar zelfs de buffels uit de kraal en de tijgers uit het bosch om naar je te luisteren!&rdquo;
+
+
+
+
+
+<pb n=86>
+<div1 id=ch5 rend="toc-head(5)">
+
+
+<p rend="class(dropcap)">Op de glinsterende, wimpelende rietvelden werd oogst gehouden.
+
+<p>In niet eindigende rijen, die al onduidelijker werden tusschen de opgewervelde wolken stof, kwamen de langzame buffelkarren den landweg af, krakend en kreunend onder de zwaarte der volsappige halmen. De fabriek wachtte met wagenwijde poorten. De groene stroom stuwde naar binnen, de machines hijgden en hamerden, <pb n=87>de torenhooge schoorsteen blies wolken rook.
+
+<p>Binnen was de hitte ondragelijk. Den bijna naakten Inlanders liep het zweet in kronkelbeekjes langs de leden: hun donkere huid, anders donzig-dof als de schil der bruine boschpaddestoelen, glom als nieuwgegoten brons. De employé&apos;s in hun witte kleeren zagen er uit of ze in den regen hadden geloopen. Het groote vliegwiel, de buikige massaas der machines, de opstekende stangen, krukken, pijpen, de snoeren van stoombuizen langs den muur, de ladders, de balustrade der omloopgalerij, de ijzeren binten van het dak en tot zelfs de muren en de vloer schenen <pb n=88>te trillen in de gloeiende lucht. Alles was nat. Het geheele gebouw zweette. De lucht was zwaar van den stank der kokende stroop.
+
+<p>Met een bekommerd gezicht stond Bake bij de nieuwe machine; zij werkte niet goed. Het was onbegrijpelijk! Hij had de stukken een voor een in handen gehad, zooals ze uit de kist kwamen; hij was niet van de plek geweest bij het opstellen; hij wist dat er geen schroef ontbrak en geen millimeter ijzer afweek van de bestemde plaats. Waar lag het dan aan?
+
+<p>Hij kende de productie-cijfers van het vorige jaar. Zij hadden hem laag geleken, toen hij ze naging in de tabellen. <pb n=89>Nu kon hij met de nieuwe machine ze niet eens halen!
+
+<p>De afgekeurde machinerieën lagen, nog maar gedeeltelijk ingepakt, in een loods. Hij ging er heen en stond lang, in mismoedig gepeins, voor die &bdquo;hoopen oud roest&rdquo;, zooals hij ze genoemd had. De administrateur, die voorbij kwam, keek naar binnen en ging verder. Bake balde de handen in zijn zak. Hij begreep wat zijn chef dacht,&mdash;wat hij moest denken!
+
+<p>&bdquo;En de mijne is tòch beter! tòch!&rdquo;
+
+<p>De Indo vroeg hem of hij zeker was dat de mandoer niet aan de machine knoeide, achter zijn rug?
+
+<p>&bdquo;Waarom zou hij?&rdquo;
+
+<p>De ander haalde de schouders op.
+
+<pb n=90><p>&bdquo;Ja, wáarom doet een Inlander zoo iets? Op de fabriek waar ik verleden jaar was....&rdquo;
+
+<p>Hij deed een verhaal van een Inlander, die, aan het vliegwiel gezet met last op een bepaalde plek olie te laten druppelen, ze er opzettelijk, alleen omdat het werk hem verveelde en hij er van af wou zijn, daar naast goot, zoodat de machine in het ongereede kwam. De fabriek had moeten stoppen totdat alles weer in orde was gebracht; het was een verlies van vier-en-twintig uur arbeid geweest. Als de nieuwe machine meer toezicht of moeite vergde dan de oude, was het best mogelijk dat de mandoer op die wijs wou probeeren <pb n=91>haar weer te laten afschaffen, vond hij. Het kon ook wezen dat het een of ander waaraan Inlanders hechten verzuimd was bij het geven van de slamettan, en dat dit de weerwraak was. Of misschien had de man een hekel aan hem, Bake, persoonlijk.
+
+<p>&bdquo;Hoe dan ook, ik zou hem in het oog houden,&rdquo; sloot de Indo<corr sic=",">.</corr> &bdquo;Overdag zal hij het waarschijnlijk niet probeeren, maar &apos;s nachts, en vooral als die nieuweling surveilleert, Van den Berg, dan kon hij zijn kans wel eens waarnemen.&rdquo;
+
+<p>Van den Berg was juist aan de beurt, dien avond. Nadat hij er zich van vergewist had dat de drijfmachine goed werkte, ging Bake op <pb n=92>het gewone uur het molenhuis uit, maar in stee van naar huis te gaan, liep hij om de gebouwen heen, en kwam, ongezien, door het laboratoriumdeurtje weer binnen.
+
+<p>De machine stond stil. Op zijn teenen er voor staande, was de mandoer bezig de regulateur-klep zoo te verstellen dat zij den stoomtoevoer bijna geheel afsloot; toen schroefde hij het huis weder dicht en bracht de machine weer op gang. Het hoofd op zij keek hij naar de ballen van den regulateur die, langzaam omhooggerezen, traag begonnen te draaien.
+
+<p>&bdquo;Nu zal er niet veel gemalen worden, <corr sic="van nacht">vannacht</corr>!&rdquo; zei hij meesmuilend tot een koelie die had staan toekijken.
+
+<pb n=93><p>De woorden waren hem nog niet uit den mond, of een vuistslag vlak in zijn gezicht had hem tegen den grond gesmakt. Wit van woede schopte Bake naar den jammerenden en zich heen en weer wentelenden Inlander.
+
+<p>De jonge employé, op het geschreeuw toegeschoten, greep hem bij den arm, hem toeroepende op te houden.
+
+<p>&bdquo;Je begaat een ongeluk! Kom toch tot je zelf!&rdquo;
+
+<p>Bake stond met opeengeklemde tanden, kort ademend. Zonder te antwoorden op de vraag van den ander of er iets aan de machine gebroken was, trok hij zich los uit zijn greep en zette de klep weer open. De <pb n=94>machine, op gang gebracht, maakte het normale aantal slagen.
+
+<p>&bdquo;Dat was het dus!&rdquo; bracht hij er eindelijk uit. &bdquo;Zoo&apos;n ellendeling!&rdquo;
+
+<p>De mandoer, die kermend overeind was gekomen, zijn ribben wrijvend, strompelde naar zijn plaats. Bake vermeed het hem aan te zien, terwijl hij, langs hem heen, de fabriek uit ging. Buiten, onder den stillen sterrenhemel, bleef hij met een diepe ademhaling stilstaan.
+
+<p>&bdquo;&apos;t Spijt me, dat ik zóo... hij kan niet terugslaan natuurlijk. Maar zoo iets verraderlijks ook&mdash;en waaròm? Neen, ik had nooit gedacht dat ik zoo woedend kon worden! Er was iets beestachtigs in!&rdquo;
+
+<pb n=95><p>Hij ging den jongen employé uit den weg den volgenden dag.
+
+<p>De administrateur, gerustgesteld aangaande de dure machine, deed de zaak met een schouderophalen af. Bake was er verbaasd over; toen begon hij zijn drift verdedigbaar te vinden; eindelijk dacht hij er niet meer aan.
+
+<p>De machine werkte prachtig nu. De cijfers stegen. Het werd een verschil van over de zeventien procent met die der vorige campagne.
+
+<p>&bdquo;Nu moeten we zien wie het wint!&rdquo; zei de administrateur, kijkend naar de rookpluim der pas opgerichte fabriek in de verte. &bdquo;Zij&mdash;of wij!&rdquo;
+
+<p>&bdquo;Wij!&rdquo; zei Bake, en sloeg op de <pb n=96>balustrade die zijn machine omgaf. &bdquo;Wij, met déze hier!&rdquo;
+
+<p>Hij was midden in den arbeid, vol ijver en geestkracht,&mdash;regelend, berekenend, vergelijkend; van den ochtend tot den nacht in touw. Hij werkte als een hersen-machine tusschen al die machines van ijzer. Het was hem wèl te moede daarbij, hij voelde zijn kracht toenemen met de toenemende inspanning,&mdash;de kracht van zijn lichaam dat de gloedhitte en den langen werkdag verdroeg, en de kracht van zijn geest die weten omzette in werkelijkheid.
+
+<p>De langzame karren kwamen er aangekraakt van de weegbrug af: tusschen staven en drijfriemen en <pb n=97>buikige machines door zag hij hoe het groene riet binnenkwam, lasten riet, hoopen riet, schelven riet, heuvels riet! En dat gaf hem een gevoel van vroolijken moed, als voor een slag dien hij vóor den avond nog winnen zou. De menigten plantenvolk die daar aangedrongen kwamen, of ze de fabriek wilden bedelven, moesten ten onder gebracht, verbrijzeld in de machines, geperst tot wat hem dienstig was.
+
+<p>Hij keek toe hoe de zware, ronde halmen, naakt uitgeschud van hun wimpelenden bladerrijkdom, bij hoopen tegelijk naar de machines gesleept werden, hoe ze verdwenen in den slokkenden muil en het plantenvleesch <pb n=98>verbrijzeld neerviel, terwijl het sap stroomde. Hij merkte haast het hameren en hijgende bonzen om zich heen niet meer, noch de hitte die in droppels van de muren liep, noch den walgelijken stroopstank, die hem in het begin onpasselijk had gemaakt. Met het gevoel van een jong officier, die zijn generaal het bericht van een overwinning komt brengen, overhandigde hij des avonds den administrateur de statistiek van den dag.
+
+<p>De chef knikte.
+
+<p>&bdquo;Ik zal speciaal melding van je maken, meneer Bake, in het rapport aan de commissie.&rdquo;
+
+<p>Dan ging hij naar huis, met een <pb n=99>stap die veerde, niettegenstaande den last der veertien uur arbeid.
+
+<p>Hoe hoog zouden de percenten der employés wel komen?
+
+<p>En de bijzondere gratificatie die de administrateur hem had toegezegd?
+
+<p>Een vriend, die als mijn-ingenieur naar Celebes was gegaan, had hem geschreven dat een gewichtige speculatie in goudmijnen op til was, hem radend aandeelen te nemen. Hij wilde het wagen. Waarom zou hij minder gelukkig moeten zijn dan zooveel anderen die met zoo iets rijk waren geworden! Als nu de campagne maar voordeelig uitviel.
+
+<p>Tot nog toe ging alles goed; hij had voldoening van de nieuwe <pb n=100>machine, en voldoening ook van de waterleiding die hij had laten graven.
+
+<p>Op een middag, dat hij er heen was geweest, en in plaats van langs den landweg, dwars door de velden naar de fabriek terug wilde rijden, vergiste hij zich in den weg, en kwam na een poos dwalen langs felbezonde sawah-paadjes en braakliggende akkers, die opklommen en afgleden langs de hellingen van een lagen heuvelkling, aan een golvend weideveld waar een bamboeboschje schaduw gaf. Van de rivier die er in een bocht omheen stroomde, kwam een koelte. Hij stapte van &apos;t paard en ging in het lommer zitten uitrusten. <pb n=101>Een geluid van kinderstemmen deed hem omzien.
+
+<p>Het was een troep kleine jongens die er aankwam, achter de buffelkudde van het dorp. Voorop, den rook van zijn stroosigaar uit bolle wangen voor zich uit blazend, liep een kereltje van een jaar of tien, spiernaakt, met een amulet aan een rooden draad om den hals. Een kleinere volgde hem, half in, half uit een verschoten paars mans-baatje, dat hem tot op de naakte kuiten hing, en een langen hengel over den schouder dragend. Achter de langzaam voorttredende buffels aan kwam de rest, zwiepend met hun dunne bamboezweepen, en langgerekte kreten <pb n=102>uitstootend van hoo&mdash;iet! hoet!
+
+<p>De buffels stapten op het water toe, dat bruin opzwalpte terwijl zij er in nederplompten. En de kleine herders, hun achterna, plonsden en plasten om de geweldige beesten heen. Een, die bijzonder veel hart voor het zijne had, leidde het naar een kuil in de rivier, waar het tot aan de schoft toe in het water stond; en op den breeden rug springend, begon hij den karbouw met beide trappelende voeten te kneden. Den geweldig-gehoornden kop vlak uitgestrekt, stond de buffel stil, tevreden heen en weer slaande met zijn staart.
+
+<p>De zon was achter de hoogte gezonken <pb n=103>die in het westen de weide begrensde; een lange, doorschijnende schaduw viel over het gras.
+
+<p>Het jonge mensch met de sigaar in den mond kwam er aan geslenterd, keek rond naar een geschikte plaats, en ging er languit op den buik liggen. Zijn vriend in het paarse buis hurkte tegenover hem neer, met een pak Chineesche kaarten, die hij op het gras begon uit te spreiden, terwijl een derde, die een plukje haar koddig overeind had staan op den kaalgeschoren bol, ernstig toekeek.
+
+<p>Een groepje verderop had een in ruiten afgedeeld vierkant op den grond getrokken en speelde &bdquo;tijger&rdquo; met een witten steen, die over de <pb n=104>lijnen heen en weer geschopt werd.
+
+<p>Geheel alleen liep een kleine dikbuik sprinkhanen te vangen. Hij trok een plankje, aan een stok vastgemaakt, over het gras, de sprinkhanen wipten van tusschen de halmen op, en met een snelle handbeweging had hij ze beet en in een bamboekooitje gestopt dat hem om de heupen bengelde. Telkens hield hij dan de kleine kevie aan het oor en schudde ze, om de krekels te hooren krieken. Onder een aardkluitje, waar hij met zijn naakte teenen tegen aan had geschopt, zat een groote: hij greep hem en liep juichend naar de anderen. Het was er een zwarte met een oranje-gele plek op den rug, van de <pb n=105>soort die het best te dresseeren is voor de krekel-gevechten.
+
+<p>&bdquo;Hij bijt nu al!&rdquo; riep de kleine dikkert. &bdquo;Kijk, kijk!&rdquo;
+
+<p>En hij krieuwelde den krekel met een graspluimpje om te laten zien hoe driftig hij er naar snapte.
+
+<p>&bdquo;Hij zal niet loslaten bij &apos;t vechten, al worden hem ook de pooten stuk gebeten!&rdquo;
+
+<p>De jongens kwamen om hem heen staan. De grooten vroegen of ze den krekel voor hem wilden dresseeren en er werden weddenschappen aangegaan of deze het winnen zou of die van Moedjaddi, die al zoo dikwijls gewonnen had!
+
+<p>Rondom de knapen, hier en ginder <pb n=106>verspreid, liepen de karbouwen het korte wreede gras af te weiden. Een kwam er vlak bij Bake, snuivend, terwijl het speeksel in een langen, helderen draad uit zijn muil afhing; hij hield den ontzaglijken kop gebukt. Maar het krekel-jagertje kwam aandraven, schold hem uit en gaf hem een schop. De karbouw keerde om.
+
+<p>&bdquo;Kom eens hier, kleine jongen!&rdquo; riep Bake. &bdquo;Ik wil je iets moois geven!&rdquo;
+
+<p>De kleine keek hem over den schouder aan en de oogen niet van hem afwendend, verwijderde hij zich, stap voor stap.
+
+<p>Maar opeens klonk een hooge juichkreet:
+
+<pb n=107><p>&bdquo;Hij komt! hij komt!&rdquo;
+
+<p>Al de jongens renden naar den heuvel waarvandaan de kreet had geklonken. Bake zag hen een oogenblik verdoffen als zij in de schaduw der helling kwamen, een seconde lang blinkend op den top staan en verdwijnen. De krekelvanger kwam achteraan; hij durfde niet hard te loopen, uit angst dat de kooi bij het schokken mocht openspringen en al de sprinkhanen ontkomen. Toen hij de helling bereikte, verschenen de anderen op den top, den makker omringend die met zulk een gejuich was aangekondigd.
+
+<p>Bake herkende Si-Bengkok.
+
+<p>&bdquo;Vertel ons weer van den wayang, <pb n=108>zooals gisteren, Si-Bengkok!&rdquo; riep een van de jongetjes.
+
+<p>&bdquo;Neen, neen! liever van het feest bij Pak-Sidin!&rdquo;
+
+<p>&bdquo;Speel ons wat voor!&rdquo;
+
+<p>&bdquo;Ja, spelen, spelen!&rdquo;
+
+<p>Si-Bengkok haalde de fluit van onder zijn baadje te voorschijn. De jongens maakten een kring om hem heen, sommigen staande met aandachtig op zij gehouden hoofd en de armen om elkaars schouders; anderen neergehurkt, hun opgetrokken knieën omvattend, of languit naast elkaar in het gras. Een die een vlieger aan de lijn hield stond alleen, donker afgeteekend tegen den gouden hemel; de rood-en-blauwe vlieger, <pb n=109>waar de zon doorheen scheen, schitterde boven zijn geneigd hoofd.
+
+<p>De hooge zoete toon der fluit klonk over de weide.
+
+<p>De grazende beesten, op wier rug de groote zwarte buffelwachtervogels waren neergestreken, hieven luisterend den kop op. Die in de rivier stonden, tot aan de schoft in het koele water, kwamen diep-snuivend, met dampende flanken, opgeklommen door het oeverriet. En de een achter den ander aan, zoo rustig dat niet éen van de zwarte vogels opvloog van zijn plaats, stapten zij naar den heuvel op het lokkende geluid af. Dichtgedrongen omringde de kudde den fluitspeler, die al klaarder <pb n=110>en liefelijker zijn wijze deed klinken. Onder het lichte nevelwolkje, dat hun adem en de damp van hun warme, natte lichamen opzond in de avondlucht, stonden zij stil of zij sliepen, alleen de ooren licht bewegend nu en dan.
+
+<p>Verwonderd zag Bake er naar.
+
+<p>In de haast en drukte der laatste weken had hij aan Si-Bengkok in het geheel niet meer gedacht. Nu trof het hem dat hij den jongen in lang niet gezien had,&mdash;in bijna een maand al niet, leek het hem. Hij dacht er over onder het naar huis rijden.
+
+<p>De tuinier slenterde langs het pad, met zijn bezem van stijve palmbladvezels <pb n=111>de dorre bladeren wegprikkend; hij riep hem aan.
+
+<p>&bdquo;Is Si-Bengkok niet meer hier geweest in den laatsten tijd?&rdquo;
+
+<p>De tuinjongen stond stil.
+
+<p>&bdquo;Hij is heel dikwijls hier geweest.&rdquo;
+
+<p>&bdquo;Waarom heeft niemand het me dan gezegd?&rdquo;
+
+<p>&bdquo;Ik heb het mijnen Heer gezegd telkens wanneer hij kwam. Ook gisterenavond heb ik het gezegd.&rdquo;
+
+<p>&bdquo;&apos;t Is waar,&rdquo; dacht Bake, &bdquo;ik had het vergeten.&rdquo;
+
+<p>De tuinjongen, de opgespietste bladen uit den bezem trekkend, raapte met de teenen een lederachtig mangablad op, en beurde het naar zijn hand.
+
+<p>&bdquo;Hij kwam voorschot vragen,&rdquo; <pb n=112>zei hij op een ontevreden toon. Die jongen uit de dessa, die voorschot kwam halen of hij bij het huishouden hoorde, ergerde hem.
+
+<p>&bdquo;Voorschot? Ah ja, natuurlijk, ik had &apos;t hem beloofd.&mdash;Zeg &apos;t me als hij terugkomt!&rdquo;
+
+<p>Hij haastte zich naar het molenhuis.
+
+<p>Een walm van hitte, machine-olie en kokende stroop sloeg hem uit de poort tegemoet. De rustelooze machines hijgden. Er werd op hem gewacht.
+
+
+
+
+<pb n=113>
+<div1 id=ch6 rend="toc-head(6)">
+
+
+<p rend="class(dropcap)">&bdquo;Wanneer hebben ze het ontdekt? Van morgen in de vroegte?&rdquo;
+
+<p>&bdquo;&apos;t Moest onderzocht worden of de wacht daar werkelijk niets van weet.&rdquo;
+
+<p>&bdquo;Als &apos;t maar niet weer dezelfde bende is, die verleden jaar op Mritjan heeft huisgehouden.&rdquo;
+
+<p>&bdquo;Hoe kan dat nu? Ze hebben de kerels immers opgepakt!&rdquo;
+
+<p>&bdquo;Dat wil zeggen, ze hebben eenige <pb n=114>kerels opgepakt die misschien de buffeldieven geweest zijn en misschien ook niet.&rdquo;
+
+<p>&bdquo;Maar ze hebben toch bekend!&rdquo;
+
+<p>&bdquo;Net of dat er iets toe doet! Als het zoeken het dessahoofd verveeld heeft, dan heeft hij eenvoudig bevel gegeven tot bekennen. Een paar getuigen zijn gauw genoeg gevonden, en de &bdquo;schuldigen&rdquo; gaan de gevangenis in. Dat noemen ze hier &bdquo;klaarheid in de zaak brengen.&rdquo;<corr>&rdquo;</corr>
+
+<p>De employés bespraken onder elkander een buffel-diefstal dien een van de dessalieden, met wien de fabriek een karre-contract had, was komen aangeven dien morgen.
+
+<p>Bake vroeg of het riet-vervoer er <pb n=115>geen schade van zou lijden, en kreeg ten antwoord dat een gemis van een enkel span niet voelbaar was op de massa die dag in dag uit het riet naar de fabriek trok.
+
+<p>&bdquo;Maar als het nu eens een heele bende was, die systematisch steelt?&rdquo;
+
+<p>&bdquo;Ja, dan misschien! dan konden we wel last krijgen.&rdquo;
+
+<p>Bake begreep de onverschilligheid van den Indo niet. Als het werkelijk een bende was, en het niet te vervoeren riet moest verrotten op het veld, wat zou er dan terecht komen van de winst en de percenten der employé&apos;s? Hij dacht aan die speculatie in goudmijnen. De voorstelling bedierf hem den dag.
+
+<pb n=116><p>Hij ging kijken naar de kraal waar de beesten uit gestolen waren,&mdash;een modderpoel binnen eene palissade. De poort werd op primitieve manier gesloten met houten klossen en bouten.
+
+<p>Eenige Inlanders stonden aan den ingang. De een zei:
+
+<p>&bdquo;Zeker is er onder de dieven een man geleerd in geheime wetenschap, en die de woorden kent waarvoor alle sloten openspringen, en alle knoopen loslaten. En hij heeft de bezwering uitgesproken van de geesten in het Noorden, het Zuiden, het Oosten, het Westen en het Midden, en aarde gestrooid in de richting van de kraal, zoodat een slaap zoo diep <pb n=117>als de dood over de wachters is gekomen, en toen is hij heengegaan en heeft de buffels genomen!&rdquo;
+
+<p>De ander dacht na.
+
+<p>&bdquo;Vader van Sidin!&rdquo; zei hij na een poos, &bdquo;zou het niet verstandig zijn en gepast een offermaal aan te richten en den priester een krachtig gebed te laten doen tot de geesten en de voorouders en tot Vader Adam en Moeder Eva, opdat zij ons vee beschermen? De priester is een zeer geleerd man! Alle dieven uit deze streek komen bij hem om geheime wetenschap van hem te leeren, en hij geeft hun spreuken, waardoor zij kunnen reizen sneller dan de wind, en zich onzichtbaar maken in een <pb n=118>vertrek waar het helder licht is, zoodat de politie hen nooit kan vangen. Als wij hem slechts een voldoende geschenk geven zal hij ons een spreuk leeren nog krachtiger dan die der dieven, en ons vee zal veilig zijn in de kraal!&rdquo;
+
+<p>Met een schouderophalen ging Bake verder. Was dat nu domheid of schurkerij? Sedert de episode van den mandoer was hij anders over Inlanders gaan denken,&mdash;ten minste, het scheen hem dat daarna en daardoor zijn gevoel tegenover hen veranderd was. Vroeger had hij dikwijls genoeg dergelijke woorden van Si-Bengkok gehoord en geglimlacht om de naïeve fantasie der voorstelling,&mdash;<pb n=119>een fantasie die in den zonneschijn fladderde op prachtig bonte vlindervleugels, en zat te droomen in schemerhoeken met wijd-open kleine-meisjes-oogen. Maar nu ergerde hij zich over dat volslagen gemis aan moraliteit op het punt van mijn en dijn.
+
+<p>&bdquo;&apos;t Is zooals Versteeg zei verleden,&rdquo; dacht hij, zich een uitlating van den Indo herinnerende.&mdash;&bdquo;In hun hart zijn alle Inlanders dieven.&rdquo;
+
+<p>En hoewel hij juist tegenover den halfbloed, wiens insolente minachting van den Javaan hem dikwijls geërgerd had, dat anders eer verzwegen zou hebben, bekende hij hem nu zijn pas-gewonnen overtuiging.
+
+<pb n=120><p>De Indo zag hem meesmuilend aan.
+
+<p>&bdquo;Ik heb het je dadelijk wel gezegd dat een paar maanden op de fabriek een eind zouden maken aan je romantische idees.&mdash;En je vriendschap met Si-Bengkok, hoe is het daarmee? Is hij &bdquo;zijn voorschot&rdquo; nog niet komen halen? Nu, dan zal &apos;t ook wel niet zoo erg met hem gesteld zijn als hij klaagt; schulden bij den Arabier en de rijst vooruit verpand, en zoo voorts, de gewone misère.&rdquo;
+
+<p>Bake luisterde met de verbazing van den Hollander voor wien Java het land van Cocagne is, en die niet vatten kan hoe een inboorling gebrek lijdt, waar de vreemdeling rijkdom komt halen.
+
+<pb n=121><p>&bdquo;Is hij dan arm?&rdquo;
+
+<p>&bdquo;Niet armer dan de anderen. Een Inlander is altijd in de penarie. Als hij toevallig eens wat heeft, geeft hij het dadelijk weer uit,&mdash;voor kleeren, of snoeperij, of een pretje,&mdash;net kinderen. Dan natuurlijk moeten ze bij den Chinees komen en leenen op woeker-rente. Of ze verkoopen hun oogst voor een prikje een paar maanden vooruit. Of ze scharrelen op de pasar met bloemen van hun erf, en allerlei gereedschap, dat ze niet eens missen kunnen, en met rijst die ze op crediet gekocht hebben,&mdash;ook weer van den Chinees natuurlijk. Op zoo&apos;n manier blijven ze aan den gang. Weet je niet meer, toen <pb n=122>we verleden terugkwamen van Madja, op de pasar?&rdquo;
+
+<p>Bake herinnerde zich het tooneeltje aan den landweg: een groep donkere kraampjes in de schaduw van een wijd-uitgegroeiden waringin, waar feestelijk gekleed dessa-volk bontheid van kleur en drukte van kwetterende stemmen omheen maakte. Alleen gelaten door praters en koopers zat een oude, in slordige kleeren gehulde vrouw achter een hoopje armzalig allerlei, half-sleetsch veldgereedschap, een paar aarden kruiken en potten, wat gering ooft. Met doffe oogen staarde ze voor zich uit.
+
+<p>&bdquo;Dat oude mensch, dat ik je nog gewezen heb, dat was de moeder <pb n=123>van Si-Bengkok. Hij zelf zal er ook wel geweest zijn; hij gaat altijd mee, om den grond tusschen de kraampjes te vegen, daar krijgt hij dan een paar duiten voor, en hij vindt er nog licht wat van zijn gading: rijstkorrels en sirih-bladen en wat zoo van de stalletjes afvalt. Soms speelt hij ook een deuntje in het danshuis&mdash;een artist op zijn manier!&rdquo; sloot de Indo en lachte.
+
+<p>Bake antwoordde niet. Hij gevoelde de voorstelling van Si-Bengkok&apos;s armoede als iets hem persoonlijk onaangenaams, op dat oogenblik.
+
+<p>&bdquo;Als zij nu de buffeldieven maar vinden,&rdquo; zei hij, heengaand.
+
+<p>Er werd naar hen gezocht. Maar <pb n=124>tien dagen later kwamen weer eenige Inlanders klagen bij den administrateur; ditmaal waren zes buffels tegelijk gestolen. Het kreeg den schijn of er werkelijk een goed georganiseerde bende aan den gang was.
+
+<p>De administrateur liet den djågå bij zich komen, den dieven-hoofdman van het dorp, die er verantwoordelijk voor is dat zijn volgelingen niet in de dessa waar hij woont stelen, en die een vast aandeel heeft van den buit dien zij overal elders ophalen. Daar het zijn ambitie was bij de eerstvolgende verkiezing van een dessahoofd aan de beurt te komen, en hij daarvoor de goede gratie van het bestuur noodig had, beloofde <pb n=125>hij te doen wat hij kon. En terwijl de politie, optredend met de verklaring dat zij ijverig wilde zoeken, de opiumkitten afliep, de pandjeshuizen, de speelholen, al de plaatsen waar dieven elkaar plegen te vinden, stelde hij een onderzoek op eigen hand in, nog meer dan door zijn eerzucht geprikkeld door de hem in zijn autoriteit en goeden naam aantastende bewering van zijn persoonlijken vijand, het nog in functie zijnde dessahoofd, dat de onbekende dieven hulp in het dorp gehad moesten hebben.
+
+<p>Echter vonden noch hij, noch de dessahoofdman, noch de politie ook maar een spoor van de dieven. En <pb n=126>vóor het eind van de week waren er weder vier buffels gestolen.
+
+<p>Bake, die elken ochtend met het eerste woord dat hij uitsprak naar tijding omtrent de dieven vroeg, werd hoe langer hoe driftiger om het geregeld terugkeerende antwoord dat men nog niets gevonden en niets geraden had.
+
+<p>Onderwijl kwamen telkens geruchten in het dorp.
+
+<p>Pasargangers, des nachts doorreizende in hun kar, hadden op den landweg mannen ontmoet die een troep buffels voor zich uit dreven, en die, zonder op hun aanroepen antwoord te geven, verder gegaan waren door de duisternis.
+
+<pb n=127><p>Toen de Arabier den te veld staanden oogst van zijn schuldenaars in de dessa kwam bezien, verhaalde hij van twee der vermiste buffels, die hij herkend had in den stal van een opkooper.
+
+<p>&bdquo;Ik heb den karbouw van Pak-Oedin gezien, die de diepe keep in het oor heeft, en den karbouw van het dorpshoofd, dien met den gebroken staart. De horens, het is waar, waren anders. Maar toen de opkooper niet op mij lette, vatte ik ze aan en voelde dat ze los zaten, zoodat ik wist dat de dieven den karbouwen een heeten pisangstam op de horens gestoken hadden, tot ze zacht werden en loslieten, en hun toen andere horens op den wortel <pb n=128>hadden geplant, opdat ze niet herkend mochten worden!&rdquo;
+
+<p>Eindelijk kwam de vrouw van den arèntapper met een mand vol koekjes-suiker in het dorp, en verhaalde wat haar man gezien had in het bosch. Hij was in een hoogen arèn geklommen om den bloemstengel te kloppen die nog niet rijp was, en toen had hij onder zich stemmen vernomen, en daar kwamen twee mannen aan, die een buffel voor zich uit dreven. De eene zong, en de buffel stapte voort op de maat.
+
+<p>&bdquo;Zeker waren het dieven, want waarom gingen zij anders door het bosch waar het moeilijk is te loopen, in plaats van langs den landweg?&rdquo; <pb n=129>besloot het vrouwtje gelijkmoedig.
+
+<p>Bake stoof op.
+
+<p>&bdquo;Waarom heeft hij ze dan niet aangehouden, als hij toch begreep dat &apos;t dieven waren?&rdquo;
+
+<p>&bdquo;Eh!&rdquo; zei het vrouwtje, &bdquo;als mijn man geroepen had en gevraagd: &bdquo;wat is dat voor een buffel, dien je daar voortdrijft?&rdquo; dan hadden de dieven misschien wel gezegd: &bdquo;Dat is een vuurbuffel!&rdquo; en dan zouden ze ons huis in brand hebben gestoken, en mijn fornuis stuk geslagen waarop ik het sap kook! En waarom zou mijn man het vragen? Het is niet betamelijk zich zoo te bemoeien met de zaak van andere menschen!&rdquo;
+
+
+
+
+
+<pb n=130>
+<div1 id=ch7 rend="toc-head(7)">
+
+
+<p rend="class(dropcap)">&bdquo;Honderd en tachtig staan de aandeelen.&mdash;Wat jammer dat ik het verleden maand maar niet geprobeerd heb, al had ik er voor moeten opnemen bij de Bank.&mdash;Zou ik het nu tòch maar wagen?&rdquo;
+
+<p>Op den rand van zijn bed zittend, de courant waarin de duizelig de hoogte in gegane aandeelen der nieuwe maatschappij genoteerd waren in de hand, peinsde Bake er over, zich het <pb n=131>voorbeeld van zijn vriend, den ingenieur in Celebes, voor oogen houdend, die met zijn dadelijk in het begin gewaagde speculatie vijf en twintig mille gewonnen had. Waarom zou &apos;t, zelfs nú nog, ook hèm niet zoo kunnen gaan? Men hoorde wel van goudmijn-aandeelen die het tot 2400 pct. gebracht hadden, een paar jaar na de uitgifte.
+
+<p>&bdquo;Het zou een fortuin in éens zijn!&rdquo;
+
+<p>Een gouden wereld deed zich voor hem op. Wat er in was, was zijn. Hij wierp zich op zijn matras als op al dien rijkdom. Toen, te opgewekt om te kunnen slapen, bleef hij liggen peinzen over alles wat hij nu zou kunnen doen. Genieten!&mdash;Op welke <pb n=132>van de duizend verschillende wijzen?
+
+<p>Een geklep als van een doffe bel trok plotseling door zijn weelde-droomen heen.
+
+<p>Hij luisterde, verwonderd eerst, toen ongerust. Het was geen bel, het was de &bdquo;lesoeng&rdquo;, het holle houtblok waarop in de dessa alarm geslagen wordt.
+
+<p>Hij schoot zijn kleeren aan, en liep naar buiten, het fabrieksplein op.
+
+<p>Een groep employés, de Indo, die zijn paard aan het hoofdstel hield, onder hen, omringde een Inlander, die, telkens over zijn schouder wijzend, met eentonig klagende stem iets verhaalde. In den schijn van het electrische licht uit de poort der fabriek <pb n=133>zag Bake de gespannen uitdrukking op de gezichten der luisterenden.
+
+<p>&bdquo;Wat is er gebeurd?&rdquo;
+
+<p>De jonge employé antwoordde:
+
+<p>&bdquo;Er zijn weer buffels gestolen&mdash;drie zegt de man. De dieven hebben ze weggehaald uit de wei terwijl de herdersjongens weg waren; een man had ze met zich mee gelokt, door te roepen dat een wild varken was opgejaagd in het veld vlakbij.&rdquo;
+
+<p>&bdquo;Ik heb het spoor gevonden, waar ze de rivier doorgegaan zijn, en verder over de velden. Zeker zijn ze het bosch ingegaan!&rdquo; eindigde de Inlander.
+
+<pb n=134><p>De Indo sprong in het zadel.
+
+<p>&bdquo;Hoerah! dat wordt een pretje! Ik ga ze vangen!&rdquo;
+
+<p>&bdquo;Wacht, wacht!&rdquo; riep Bake. Hij rende naar den stal om zijn Sandelwood. Toen hij het plein opgedraafd kwam, blonk een geweerloop boven zijn schouder uit.
+
+<p>&bdquo;Naar de wei!&rdquo; riep de Indo, &bdquo;ik zal wel voorgaan door de rivier.&mdash;Denk om de kuilen!&rdquo;
+
+<p>Bake draafde hem na door de duisternis. De landweg klonk onder de hoeven der paarden, toen verdofte het geluid in gras, een heuvel rees donker tegen de lucht. Bake herkende de plek waar hij de spelende herdersjongens had gezien.
+
+<pb n=135><p>Aan den rivierkant stond een groep mannen in het licht van fakkels. Een er van kwam op de ruiters toe.
+
+<p>&bdquo;Hier zijn ze het water doorgegaan,&rdquo; zei hij. &bdquo;Wij hebben de sporen gevonden aan den overkant.&rdquo;
+
+<p>Hij waadde door de rivier, zijn fakkel hoog houdend. In het rosse schijnsel gloorden een reeks plasjes op&mdash;de diepe hoefindrukken in den moddergrond. Het spoor liep een eindweegs voort over de velden verderop.
+
+<p>&bdquo;Ze zijn zeker het bosch in,&rdquo; raadde de man.
+
+<p>De Indo knikte.
+
+<p>&bdquo;We moeten ze inhalen vóor ze den heuvel over zijn, anders ontsnappen <pb n=136>ze ons. Aan den anderen kant begint het bosch.&rdquo;
+
+<p>&bdquo;Als het maar licht genoeg was om te schieten,&rdquo; zeide Bake tusschen zijn tanden.
+
+<p>Er was geen maan, maar het sterreschijnsel begloorde flauw den weg. Links en rechts schemerden de afgeoogste rietvelden. De donkere hoogten van de heuvels teekenden zich flauw af tegen den hemel.
+
+<p>&bdquo;Ze hebben een voorsprong van anderhalf uur op zijn minst,&mdash;ik geloof nooit, dat we ze nog krijgen,&rdquo; zei de Indo op den toon van een jongen die bij een tòch prettig spelletje verliest. Sedert den laatsten diefstal waren al drie weken verloopen, <pb n=137>het stond wel vast, dat het geen bende was, en de fabriek geen schade had te duchten; hij jaagde op den dief voor zijn pleizier, zóó als hij anders op een hert gejaagd zou hebben. &bdquo;Ze moeten al lang het bosch in zijn!&rdquo;
+
+<p>Bake drukte zijn Sandelwood de hielen in de zij, dat hij met een sprong vooruit schoot. De duistere hobbelgrond vloog schokkend onder hem weg. Er was maar éen gedachte in zijn hoofd,&mdash;den dief neer te schieten.
+
+<p>&bdquo;Vóor hij het bosch in is! Vóor hij het bosch in is!&rdquo; klonk het in hem. En voorover leunend ranselde hij den Sandelwood met het eind van de teugels. Hij voelde den schrijnenden <pb n=138>slag van kiezels en aardkluiten in zijn gezicht, de lucht striemde. De donkere muur van de heuvels, die zoo ver was geweest, kwam op hem toe bewogen. Hij was den voet al genaderd van de hoogte waaroverheen de weg naar het bosch loopt, toen hij, achter zich, den Indo hoorde roepen.
+
+<p>&bdquo;Hoor je ze? ze fluiten!&rdquo;
+
+<p>Van dichtbij, maar als uit een hoogte, klonk dun en zoet een Inlandsche fluit.
+
+<p>&bdquo;Ze zijn op den heuvel! Nu hebben wij ze!&mdash;wacht! aan den kant van den weg blijven, op het gras, dat ze ons niet hooren!&rdquo;
+
+<p>De Indo had Bake ingehaald; behoedzaam <pb n=139>reden ze den heuvel op, waar al duidelijker de fluitetonen afgevloeid kwamen. Plotseling greep hij Bake&apos;s paard bij den teugel.
+
+<p>&bdquo;Daar zijn ze!&rdquo;
+
+<p>Bake onderscheidde niets in de massale donkerheid die voor hem opsteeg.
+
+<p>&bdquo;Daar, aan den kant waar de boomen staan,&mdash;vlak bij den top. Ze zullen zoo dadelijk te voorschijn komen. Heb je je geweer<corr sic="!">?</corr>&rdquo;
+
+<p>Bake greep er naar zonder de oogen af te wenden van een flauw belichte plek naast zwaar schaduw-zwart, waar de Indo naar wees. Plotseling bewoog daar iets donkers.
+
+<pb n=140><p>&bdquo;Zie je hem? den karbouw met den kerel op zijn rug? Hij fluit om de andere mee te krijgen.&rdquo;
+
+<p>Een voor een kwamen drie zwartige kolossen uit de boomenduisternis het half-licht in van de open plek. Op den voorste zat de fluitspeler. Zijn figuur smolt met het geweldige buffellijf samen in éen donkerte. Onbekommerd, of hij de kudde naar de wei bracht, pijpte hij.
+
+<p>Bake was van &apos;t paard gesprongen; den vinger aan den snaphaan wachtte hij, zich met de oogen vastbrandend aan die langzaam voortbewegende schaduw.
+
+<p>&bdquo;Als ik hem maar eerst duidelijk tegen de lucht zie!&rdquo;
+
+<pb n=141><p>De bedachtzaam voorttredende buffel bereikte den heuveltop. Reusachtig steeg hij op tegen de sterrelucht. Tusschen de breed-uitgebogen horens donkerden het hoofd en de schouders van den dief.
+
+<p>Het schot knalde.
+
+<p>De donkere gestalte schokte op en zeeg langzaam op zij.
+
+<p>&bdquo;Geraakt! geraakt!&rdquo; riep de Indo. &bdquo;Hij is van den karbouw gevallen!&rdquo;
+
+<p>Hij draafde, Bake achterna, den heuvel op.
+
+<p>De gewonde lag, op een hoop inéengezakt, bijna tusschen de hoeven van den buffel, die onrustig aan hem snoof.
+
+<p>Bake greep hem bij den schouder, <pb n=142>maar trok haastig zijn hand terug: hij had in bloed getast.
+
+<p>De Indo streek een was-lucifer af.
+
+<p>&bdquo;Wie is het?&rdquo;
+
+<p>Het schijnsel viel op een naakten rug, waar een dun bloedstraaltje langs siepelde, op een afgewend gezicht. Bake boog zich er over heen, en richtte zich met een schok overeind.
+
+<p>&bdquo;Och God! och God!&rdquo;
+
+<p>&bdquo;Wie is het?&rdquo; vroeg de Indo weer; nieuwsgierig bukte hij. &bdquo;Allah! Si-Bengkok!&rdquo;
+
+<p>Het fluitspelertje lag voorover, met het gezicht in het stof. Zijn verdorde beenen, waar de sarong afgegleden was, staken akelig op. Toen Bake hem behoedzaam overeind <pb n=143>richtte, kreunde hij even, hulpeloos en zachtjes als een klein ziek kind.
+
+<p>&bdquo;Ik geloof dat je hem leelijk geraakt hebt; het kan wel door de long zijn gegaan,&rdquo; zei de Indo, het donkere plekje onder het schouderblad beziende, waar het bloed droppelsgewijze uitlekte.
+
+<p>Bake kon er geen woord uit brengen. In onuitsprekelijke wroeging en medelijden keek hij naar dat wegfilterende leven, dat hij vergoten had. De hebzucht, de haat, de wreedheid, waarmee hij den <corr sic="díef">dief</corr> van zijn rijkdom had nagejaagd, waren vervlogen als een kwade roes. Zijn slachtoffer lag voor hem. En hij gevoelde onduidelijk <pb n=144>en diep dat hij in dat arme wezen ook zichzelven kwaad had gedaan,&mdash;kwaad, dat in der eeuwigheid niet meer goedgemaakt kon worden.
+
+<p>De Indo zei:
+
+<p>&bdquo;Daar komt een kar aan.&rdquo;
+
+<p>In den flakkerschijn der schuin opstekende flambouw kwam een langzame pedati den heuvel opgekraakt. Het geel-roode schijnsel wankelde heen en weer over de gestalte van den karrevoerder, lang uitgestrekt op de lading gras. Hij hield neuriënd zijn karbouwen in den stap. De losloopende beesten ziende langs den berm en den groep van mannen en paarden, midden op den weg, zweeg hij verbaasd.
+
+<pb n=145><p>De Indo riep hem aan.
+
+<p>&bdquo;Hé jij, kom eens hier! Er is een ongeluk gebeurd!&rdquo;
+
+<p>Gedwee gehoorzaamde de man. De buffels, die aan den kant liepen te grazen, kwamen op het paar voor de kar toestappen.
+
+<p>&bdquo;We zullen je naar huis brengen, Si-Bengkok!&rdquo; zei Bake met een stem zacht als die van een vrouw. &bdquo;Kun je je armen om mijn hals leggen?&rdquo;
+
+<p>De jongen maakte een machtelooze beweging.
+
+<p>&bdquo;Gaat &apos;t niet? Wacht, zóó! Wees maar niet bang, ik zal je geen pijn doen.&rdquo;
+
+<p>Hij had het smartelijke lichaam in zijn armen genomen. Behoedzaam droeg hij het op &apos;t koele zachte leger <pb n=146>in de kar. &bdquo;Lig je zóo goed? Je voeten ook?&rdquo;
+
+<p>De houding van het vergroeide lichaampje leek hem ondragelijk. Hij ging zelf ook op de kar zitten en nam Si-Bengkok&apos;s hoofd op zijn knieën, den karrevoerder bevelend naar de fabriek te rijden.
+
+<p>De logge wagen zette zich in beweging. De buffels kwamen er achteraan gestapt, den geur volgend van het zoete gras. De Indo reed er naast, Bake&apos;s paard aan den teugel voerend. Hij wierp een blik op Si-Bengkok&apos;s gezicht, waar het rosse fakkelschijnsel overheen sidderde. De oogen lagen dicht. Onder het bruin begon de huid vaal te worden.
+
+<pb n=147><p>&bdquo;Ik zal vooruit rijden en den dokter waarschuwen, hij is op de fabriek van avond,&rdquo; zeide hij.
+
+<p>Den karrevoerder de teugels van Bake&apos;s paard toegooiend, reed hij den heuvel af. Toen de hoefslagen verdoffend weg waren geklonken, werd het rondom stil; alleen de schijfwielen der pedati kraakten, zacht-kreunend.
+
+<p>Si-Bengkok maakte een zwakke beweging met het hoofd. Bake boog zich over hem heen.
+
+<p>&bdquo;Heb je pijn, Si-Bengkok?&rdquo;
+
+<p>De bleeke lippen trachtten te bewegen. Hij raadde het: &bdquo;Niet zoo erg.&rdquo;
+
+<p>&bdquo;Houd maar moed. Ik breng je bij den dokter. Ken je me?&rdquo;
+
+<pb n=148><p>Hij bracht zijn gezicht boven de flauwe oogen, die in het licht der flambouw staarden. Zij rezen langzaam naar hem op,
+
+<p>&bdquo;Weet je wie ik ben, Si-Bengkok?&rdquo;
+
+<p>De jongen bracht er de woorden uit: &bdquo;Ja, Heer.&rdquo;
+
+<p>Bake tastte naar de hand, die koud in het koele gras lag, en hield ze in zijn warmen, vasten greep.
+
+<p>&bdquo;Hoe kon je dat toch doen, Si-Bengkok?&rdquo;
+
+<p>Hij had iets heel anders willen zeggen, zijn hart was vol zelfbeschuldiging en teederheid en beklag, maar hij vond geen woorden in zijn ontroering, en werktuigelijk zeide hij: &bdquo;Hoe kon je dat toch doen?&rdquo;
+
+<pb n=149><p>En schaamde zich nog vóor hij het had uitgesproken.
+
+<p>Si-Bengkok bewoog een paar maal de lippen: eindelijk kwam het er uit, nauwelijks hoorbaar:
+
+<p>&bdquo;Ik ben een al-te-arm mensch....&rdquo;
+
+<p>Het ging Bake door de ziel. Hij besefte, wat hij nog nooit had bedacht, den nood van dat hulpelooze wezentje, dat hij aan zijn lot had overgelaten, om te verhongeren in het stof waarin het rondkroop als een vleugellam, half-vertrapt insect. Die niets heeft en niets kan verdienen en van niemand iets krijgt, hoe doet die om het leven te houden?
+
+<p>Hij voelde zijn keel dichtgeknepen bij de gedachte hoe Si-Bengkok van <pb n=150>hem het bittere beetje had verwacht dat hij noodig had voor zijn onschuldig leven, en hoe hij dat had geweigerd, erger dan geweigerd, vergeten in de haast en de hebzucht van zijn jacht achter den rijkdom aan.
+
+<p>&bdquo;En nu heb ik hem doodgemaakt omdat hij een mondjesmaat afknabbelde van wat ik te veel heb, zoo maar stuk gebroken, zoo&apos;n aardig zieltje, dat daar in dat arme kleine lichaam zat te zingen als een leeuwerik in zijn kooi.... &bdquo;Wel zoet op de fluit spelen, zoodat wie het hoort tevreden wordt van hart....&rdquo;&rdquo;
+
+<p>Met tranen in de oogen boog hij over Si-Bengkok heen, hem zachtkens over het haar streelend.
+
+<pb n=151><p>&bdquo;Je blijft nu bij mij, Si-Bengkok, altijd, altijd! Je zult een goed leven hebben, als de dokter je eerst maar weer beter heeft gemaakt, een heerlijk leven, zoo als je het zelf maar wenscht. En voor je ouders zullen we ook zorgen. Is dat goed?&rdquo;
+
+<p>Het duurde een wijle voor Si-Bengkok er het antwoord uit kon brengen.
+
+<p>&bdquo;Het is goed, Heer.&rdquo;
+
+<p>Toen lag hij weer stil.
+
+<p>&bdquo;Misschien wordt hij werkelijk wel beter....&rdquo; trachtte Bake te denken. &bdquo;Als we maar eerst thuis waren!&rdquo;
+
+<p>Langzaam kraakte de kar voort. Er kwam geen einde aan die eentonige boomenrij langs den weg, die <pb n=152>stam voor donkeren stam voorbij schoof. De karrevoerder was weder begonnen te neuriën. Het scheen of de trage deun den tijd zelf langzamer maakte.
+
+<p>Telkens weer, als een oneffenheid van den weg de kar deed opschokken, boog Bake zich bezorgd over den gewonde. Maar hij scheen geen pijn te gevoelen van den stoot: hij kreunde zelfs niet meer.
+
+<p>&bdquo;Hij zal bewusteloos zijn,&rdquo; dacht Bake.
+
+<p>Hij trok zijn jas uit en spreidde ze over het lijdelijke lichaam. Maar de hand die hij in de zijne hield werd al kouder.
+
+<p>De walmende fakkel op de kar <pb n=153>ging uit. Hij zat in het donker. In de zwartblauwe hoogten boven zijn hoofd tintelden de sterren. Geheel werktuigelijk keek hij er naar; zijn gedachten waren als verstijfd.
+
+<p>Dat duurde láng zoo.
+
+<p>De kar gaf een plotselingen stoot. Hij schrok op. Si-Bengkok&apos;s hoofd was van zijn knieën gegleden.
+
+<p>&bdquo;Je hebt je toch geen pijn gedaan?&rdquo;
+
+<p>Er kwam geen antwoord. Bezorgd bukte hij over het bleeke gezicht.
+
+<p>Tusschen de grashalmen en de verwelkende varens lag hij stil. De oogen, waarop het sterrenlicht zoo vreemd schitterde, waren gesloten.
+
+
+
+</body>
+<back id=backmatter>
+
+
+<divGen type=toc id=toc>
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[X] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (http://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (http://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (http://www.worldcat.org).
+[ ] Generate unique epub-id. (http://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend=&bdquo;indent(2)&rdquo;
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2. ([0-9])\&ndash;([0-9])/([0-9]) becomes \1\&frac\2\3;
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
